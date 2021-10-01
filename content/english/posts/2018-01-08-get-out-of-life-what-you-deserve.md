@@ -1,5 +1,5 @@
 ---
-title: get out of life what you deserve
+title: Quote - Get out of life what you deserve
 author: admin
 type: post
 date: 2018-01-08T00:44:06+00:00

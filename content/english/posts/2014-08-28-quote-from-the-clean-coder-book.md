@@ -3,7 +3,7 @@ title: 'From book The Clean Coder: A Code of Conduct for Professional Programmer
 author: admin
 type: post
 date: 2014-08-28T07:23:07+00:00
-url: /233/
+url: /quote-from-the-clean-coder-book/
 categories:
   - Quotes
 format: quote

@@ -17,6 +17,8 @@ enableMediumZoom = true
 assetDir = "assets"
 contentratio = 0.7
 profilePicture = "images/slavsq.jpg"
+disqusShortname="jasinski-us"
+customCss = ["css/custom.css"]
 
 [permalinks]
 #categories = "/category/:slug/"
@@ -28,13 +30,13 @@ name   = "Blog"
 weight = 10
 
 [[Languages.en.menu.main]]
-url = "/category/arduino/"
+url = "/categories/arduino/"
 identifier = "arduino"
 name   = "Arduino"
 weight = 25
 
 [[Languages.en.menu.main]]
-url = "/category/work/"
+url = "/categories/work/"
 identifier = "work"
 name   = "Work"
 weight = 30
@@ -51,6 +53,12 @@ tutle = "GitHub"
 url = "https://github.com/slav123"
 
 [[params.socialIcons]]
+icon = "fab fa-stack-overflow"
+title = "Stack Overflow"
+url = "https://stackoverflow.com/users/432573/"
+
+
+[[params.socialIcons]]
 icon = "fab fa-twitter"
 tutle = "Twitter"
 url = "https://twitter.com/slavomirj"
@@ -64,6 +72,7 @@ url = "https://www.instagram.com/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:slav123@gmail.com"
+
 
 [Languages]
 [Languages.en]
