@@ -1,0 +1,80 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "anatole"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+title = "I'm Slawomir Jasinski"
+author = "Slav"
+copyright = "2011-2021"
+description = "Call me Slav"
+mainSections = ["post"]
+enableMediumZoom = true
+assetDir = "assets"
+contentratio = 0.7
+profilePicture = "images/slavsq.jpg"
+
+[permalinks]
+#categories = "/category/:slug/"
+
+[[Languages.en.menu.main]]
+url = "/posts/"
+identifier = "Blog"
+name   = "Blog"
+weight = 10
+
+[[Languages.en.menu.main]]
+url = "/category/arduino/"
+identifier = "arduino"
+name   = "Arduino"
+weight = 25
+
+[[Languages.en.menu.main]]
+url = "/category/work/"
+identifier = "work"
+name   = "Work"
+weight = 30
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/slawomirjasinski"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+tutle = "GitHub"
+url = "https://github.com/slav123"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+tutle = "Twitter"
+url = "https://twitter.com/slavomirj"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:slav123@gmail.com"
+
+[Languages]
+[Languages.en]
+title = "My blog"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+#[Languages.pl]
+#title = "Sławomir Jasiński"
+#description = "Strona prywatna Sławomir Jasiński"
+#contentDir = "content/polski"
+#weight = 2
+#LanguageName = "PL"
