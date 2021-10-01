@@ -57,7 +57,6 @@ icon = "fab fa-stack-overflow"
 title = "Stack Overflow"
 url = "https://stackoverflow.com/users/432573/"
 
-
 [[params.socialIcons]]
 icon = "fab fa-twitter"
 tutle = "Twitter"
@@ -67,6 +66,11 @@ url = "https://twitter.com/slavomirj"
 icon = "fab fa-instagram"
 title = "instagram"
 url = "https://www.instagram.com/"
+
+[[params.socialIcons]]
+icon = "fas fa-business-time"
+title = "business"
+url = "https://www.spidersoft.com.au"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"

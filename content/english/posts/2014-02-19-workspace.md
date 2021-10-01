@@ -10,4 +10,6 @@ categories:
 format: image
 
 ---
+Just sharing my current view from the office. 
+
 ![](/images/2015/06/2014-02-07-09.17.21.jpg)

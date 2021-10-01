@@ -1,5 +1,5 @@
 ---
-title: Leadership
+title: Quote - Leadership
 author: admin
 type: post
 date: 2014-09-02T05:58:34+00:00

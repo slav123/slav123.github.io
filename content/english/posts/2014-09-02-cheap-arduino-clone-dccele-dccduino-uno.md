@@ -13,7 +13,7 @@ Recently I bought very cheaply Arduino UNO Clone called **DccEle &#8211; DCcduin
 
 <!--more-->
 
-![](/images/2014/09/cheap-arduino.jpg)
+![cheap-arduino](/images/2014/09/cheap-arduino.jpg)
 
 If you are not afraid, just pull drivers from this website [www.5v.ru](http://www.5v.ru/ch340g.htm) or this one [www.wch.cn](http://www.wch.cn/downloads.php?name=pro&proid=178). You can also pull copies from here:
 
