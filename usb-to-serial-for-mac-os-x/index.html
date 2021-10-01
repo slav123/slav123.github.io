@@ -12,6 +12,7 @@ USB to Serial for Mac OS X
     ">
 <link rel=stylesheet href=/css/main.min.0a28517cc8cf1577ac08fce9aed49bbe584c350d58aaf61fb13d6cb13792aeb7.css integrity="sha256-CihRfMjPFXesCPzprtSbvlhMNQ1YqvYfsT1ssTeSrrc=" crossorigin=anonymous type=text/css>
 <link rel=stylesheet href=/css/markupHighlight.min.8e4c8f0a940b1596fb4c64d28a00a5ceed671fc303cb65178b4947417da9c674.css integrity="sha256-jkyPCpQLFZb7TGTSigClzu1nH8MDy2UXi0lHQX2pxnQ=" crossorigin=anonymous type=text/css>
+<link rel=stylesheet href=/css/custom.min.4422e856fcd6f2ee14f32638fe94285230801e7900face89ab29c81910e7e7ba.css integrity="sha256-RCLoVvzW8u4U8yY4/pQoUjCAHnkA+s6JqynIGRDn57o=" crossorigin=anonymous media=screen>
 <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin=anonymous>
 <link rel="shortcut icon" href=/favicon.ico type=image/x-icon>
 <link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png>
@@ -33,7 +34,7 @@ Start a terminal session and list all available serial (or tty) devices availabl
       
 
 
-    ","inLanguage":"en-us","isFamilyFriendly":"true","mainEntityOfPage":{"@type":"WebPage","@id":"\/usb-to-serial-for-mac-os-x\/"},"author":{"@type":"Person","name":"admin"},"creator":{"@type":"Person","name":"admin"},"accountablePerson":{"@type":"Person","name":"admin"},"copyrightHolder":{"@type":"Person","name":"admin"},"copyrightYear":"2014","dateCreated":"2014-10-16T03:30:14.00Z","datePublished":"2014-10-16T03:30:14.00Z","dateModified":"2014-10-16T03:30:14.00Z","publisher":{"@type":"Organization","name":"admin","url":"/","logo":{"@type":"ImageObject","url":"\/favicon-32x32.png","width":"32","height":"32"}},"image":[],"url":"\/usb-to-serial-for-mac-os-x\/","wordCount":"191","genre":["Arduino"],"keywords":[]}</script>
+    ","inLanguage":"en-us","isFamilyFriendly":"true","mainEntityOfPage":{"@type":"WebPage","@id":"\/usb-to-serial-for-mac-os-x\/"},"author":{"@type":"Person","name":"admin"},"creator":{"@type":"Person","name":"admin"},"accountablePerson":{"@type":"Person","name":"admin"},"copyrightHolder":{"@type":"Person","name":"admin"},"copyrightYear":"2014","dateCreated":"2014-10-16T03:30:14.00Z","datePublished":"2014-10-16T03:30:14.00Z","dateModified":"2014-10-16T03:30:14.00Z","publisher":{"@type":"Organization","name":"admin","url":"/","logo":{"@type":"ImageObject","url":"\/favicon-32x32.png","width":"32","height":"32"}},"image":[],"url":"\/usb-to-serial-for-mac-os-x\/","wordCount":"197","genre":["Arduino"],"keywords":[]}</script>
 </head>
 <body>
 <header><div class="page-top
@@ -53,10 +54,10 @@ animated fadeInDown">
 <a href=/posts/ title>Blog</a>
 </li>
 <li>
-<a href=/category/arduino/ title>Arduino</a>
+<a href=/categories/arduino/ title>Arduino</a>
 </li>
 <li>
-<a href=/category/work/ title>Work</a>
+<a href=/categories/work/ title>Work</a>
 </li>
 <li>
 <a href=/contact/ title=Contact>Contact</a>
@@ -93,6 +94,11 @@ animated fadeInDown">
 <li>
 <a href=https://github.com/slav123 rel=me aria-label>
 <i class="fab fa-github fa-2x" aria-hidden=true></i>
+</a>
+</li>
+<li>
+<a href=https://stackoverflow.com/users/432573/ rel=me aria-label="Stack Overflow">
+<i class="fab fa-stack-overflow fa-2x" aria-hidden=true></i>
 </a>
 </li>
 <li>
@@ -142,9 +148,16 @@ Thu, Oct 16, 2014
 </div><p>In this quick tutorial will show how to “talk” quickly to Serial port on Mac OS X.</p>
 <p>Mac OS X will automatically create a serial device, which can be found in /dev.</p>
 <p>Start a terminal session and list all available serial (or tty) devices available.</p>
-<p>Find the entry that is referring to your device. It could looks like that:<br>
-<code>crw-rw-rw- 1 root wheel 2, 0 16 Oct 14:23 /dev/tty crw-rw-rw- 1 root wheel 19, 0 16 Oct 08:09 /dev/tty.Bluetooth-Incoming-Port crw-rw-rw- 1 root wheel 19, 2 16 Oct 08:09 /dev/tty.Bluetooth-Modem crw-rw-rw- 1 root wheel 19, 10 16 Oct 14:25 /dev/tty.HC-05-DevB crw-rw-rw- 1 root wheel 19, 4 16 Oct 08:09 /dev/tty.iPhoneslav-WirelessiAP crw-rw-rw- 1 root wheel 19, 6 16 Oct 08:54 /dev/tty.wch ch341 USB=>RS232 1420</code><br>
-Now that we have identified our new serial device, we can start connecting into it. Most people will use a Terminal Emulator, but as most of these programs were built. We simply use the built-in screen program on Mac OS. So in the same terminal window, simply type:</p>
+<p><code>ls -l /dev/tty*</code></p>
+<p>Find the entry that is referring to your device. It could looks like that:</p>
+<pre tabindex=0><code>crw-rw-rw- 1 root wheel 2, 0 16 Oct 14:23 /dev/tty
+crw-rw-rw- 1 root wheel 19, 0 16 Oct 08:09 /dev/tty.Bluetooth-Incoming-Port
+crw-rw-rw- 1 root wheel 19, 2 16 Oct 08:09 /dev/tty.Bluetooth-Modem
+crw-rw-rw- 1 root wheel 19, 10 16 Oct 14:25 /dev/tty.HC-05-DevB
+crw-rw-rw- 1 root wheel 19, 4 16 Oct 08:09 /dev/tty.iPhoneslav-WirelessiAP
+crw-rw-rw- 1 root wheel 19, 6 16 Oct 08:54 /dev/tty.wch ch341 USB=&gt;RS232 1420
+</code></pre><p>Now that we have identified our new serial device, we can start connecting into it. Most people will use a Terminal Emulator, but as most of these programs were built. We simply use the built-in screen program on Mac OS. So in the same terminal window, simply type:</p>
+<p><code>screen /dev/tty.HC-05-DevB 9600</code></p>
 <p>You can obviously change the baud rate or any other options to what you need to connect to your specific device.</p></div>
 <div class=post-footer>
 <div class=info>
