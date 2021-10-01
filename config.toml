@@ -65,7 +65,7 @@ url = "https://twitter.com/slavomirj"
 [[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/slavomirj/"
 
 [[params.socialIcons]]
 icon = "fas fa-business-time"
@@ -85,9 +85,9 @@ weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
-#[Languages.pl]
-#title = "Sławomir Jasiński"
-#description = "Strona prywatna Sławomir Jasiński"
-#contentDir = "content/polski"
-#weight = 2
-#LanguageName = "PL"
+[Languages.pl]
+title = "Sławomir Jasiński"
+description = "Strona prywatna Sławomir Jasiński"
+contentDir = "content/polski"
+weight = 2
+LanguageName = "PL"

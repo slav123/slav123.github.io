@@ -12,7 +12,7 @@ disableComments: true
 ## EXPERTISE  
 Skilled in software development, platform agnostic &#8211; he can deliver any type of modern digital technology, including physical installations and purely software / social media solutions.
 
-Working on a number of well known Australian brands including Commonwealth Bank, Telstra, American Express, Daikin, Jim Beam & Skoda, Slav loves the challenge of delivering even the most out-there solutions Creative team can come up with. 
+Working on a number of well known Australian brands including [Commonwealth Bank](https://www.commbank.com.au/), [Telstra](https://www.telstra.com.au/), [American Express](https://www.americanexpress.com/en-au/), [Daikin](https://www.daikin.com.au/), [Jim Beam](https://www.jimbeam.com/en-au/) & [Skoda](https://www.skoda.com.au/), Slav loves the challenge of delivering even the most out-there solutions Creative team can come up with. 
 
 He has also worked extensively in Europe on brands like Hewlett & Packard, MAN Trucks, and YKK.
 

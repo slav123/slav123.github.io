@@ -7,10 +7,6 @@ url: /microsite-for-contact-centre-technology-platform/
 thumbnail: /images/2013/04/website-template-310x310.jpg
 categories:
   - Work
-tags:
-  - build
-  - psd2html
-  - website
 
 ---
 Website build for one of the biggest technology platform for contact centre.
