@@ -41,6 +41,11 @@ identifier = "work"
 name   = "Work"
 weight = 30
 
+[[Languages.pl.menu.main]]
+url = "/pl/categories/diy/"
+identifier = "diy"
+name   = "Diy"
+weight = 30
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
