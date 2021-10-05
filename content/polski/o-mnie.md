@@ -11,7 +11,7 @@ weight: 1
 ## Zawodowo  
 Od lat zajmuje się ogólnie pojętym `software development`. Niespecjalnie przywiązany do platformy czy języka dostarczam nowoczesne rozwiązania. Większość skupia się w ogólnie pojętym Web Development, ale mam doświadczenie w budowaniu instalacji fizycznych czy rozwiązań Social Media.
 
-Pracowałem ze znanymi markami w Astrali takimi jak [Commonwealth Bank](https://www.commbank.com.au/) - największy bank w Australii, [Telstra](https://www.telstra.com.au/) - jeden z większych operatorów telekomunikacyjnych, [American Express](https://www.americanexpress.com/en-au/), [Daikin](https://www.daikin.com.au/), [Jim Beam](https://www.jimbeam.com/en-au/) & [Skoda](https://www.skoda.com.au/). Uwielbiam wyzwania w przygotowaniu rozwiązań szytych na miarę każdego klienta.
+Pracowałem ze znanymi markami w Australii takimi jak [Commonwealth Bank](https://www.commbank.com.au/) - największy bank w Australii, [Telstra](https://www.telstra.com.au/) - jeden z większych operatorów telekomunikacyjnych, [American Express](https://www.americanexpress.com/en-au/), [Daikin](https://www.daikin.com.au/), [Jim Beam](https://www.jimbeam.com/en-au/) & [Skoda](https://www.skoda.com.au/). Uwielbiam wyzwania w przygotowaniu rozwiązań szytych na miarę każdego klienta.
 
 W Polsce pracowałem przy projektach dla *Hewlett & Packard*, *MAN Trucks*, czy *YKK*.
 
