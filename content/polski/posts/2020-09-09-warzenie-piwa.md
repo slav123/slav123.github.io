@@ -13,4 +13,4 @@ Warzeniem piwa zaraził mnie znajomy, który poczęstował mnie swoimi produkcja
 
 W wielkim uproszczeniu piwo powstaje poprzez odpowiednie wygotowanie słodu z dodatkiem chmielu. Finalny alkohol powstaje oczywiście przy ciężkiej pracy naszych przyjaciół drożdży. Do pełni szczęścia i smaku potrzeba nam oczywiście jeszcze czasu. 
 
-{{ embed 
+
