@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Slawomir Jasinski'
 theme = "anatole"
 
 [taxonomies]
@@ -10,7 +10,7 @@ tag = "tags"
 [params]
 title = "I'm Slawomir Jasinski"
 author = "Slav"
-copyright = "2011-2021"
+copyright = "2011-2022"
 description = "Call me Slav"
 mainSections = ["post"]
 enableMediumZoom = true
