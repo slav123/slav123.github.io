@@ -26,28 +26,34 @@ So if you want to use this experience, please use this form to [contact](/contac
 ## Certificates
 
 ### GO
-* [Programming with Google Go Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/XH7ZMSXFS779) - University of California, Irvine - July 2022
+[Programming with Google Go Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/XH7ZMSXFS779) - University of California, Irvine - July 2022
 
 ### Kubernetes
-* [Kubernetes: Create Multi-App Cluster with Ingress & Logging](https://www.coursera.org/account/accomplishments/certificate/9HML386FB34Q)
+[Kubernetes: Create Multi-App Cluster with Ingress & Logging](https://www.coursera.org/account/accomplishments/certificate/9HML386FB34Q)
 April 2022
-* [Kubernetes: Basic Architecture and First Deployment](https://www.coursera.org/account/accomplishments/certificate/8GT7MKUGGAUX)
+
+[Kubernetes: Basic Architecture and First Deployment](https://www.coursera.org/account/accomplishments/certificate/8GT7MKUGGAUX)
 April 2022
 
 ### AWS
-* [Introduction to Designing Data Lakes on AWS](https://www.coursera.org/account/accomplishments/certificate/LQWDW39EUWBA)
+[Introduction to Designing Data Lakes on AWS](https://www.coursera.org/account/accomplishments/certificate/LQWDW39EUWBA)
 June 2022
-* [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/certificate/8WUHJMYVXNT5)
+
+[AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/certificate/8WUHJMYVXNT5)
 May 2022
-* [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/EN66ELRK9GDY)
+
+[AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/EN66ELRK9GDY)
 February 2022
 
 ### Soft
-* [Relationship Management](https://www.coursera.org/account/accomplishments/certificate/LH9LAHTELHL8) - Rice University -
+[Relationship Management](https://www.coursera.org/account/accomplishments/certificate/LH9LAHTELHL8) - Rice University -
 July 2022
-* [Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/certificate/MDWA8M5USTPC) - Google - 
+
+[Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/certificate/MDWA8M5USTPC) - Google - 
 July 2022
-* [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/MKSPKASAXQ8N) - Google -
+
+[Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/MKSPKASAXQ8N) - Google -
 June 2022
-* [Communication Strategies for a Virtual Age](https://www.coursera.org/account/accomplishments/certificate/7HN86HDDTFXJ) - University of Toronto -
+
+[Communication Strategies for a Virtual Age](https://www.coursera.org/account/accomplishments/certificate/7HN86HDDTFXJ) - University of Toronto -
 April 2022

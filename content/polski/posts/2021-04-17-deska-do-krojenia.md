@@ -14,3 +14,5 @@ categories:
 
 ![deska do krojenia z logo](/images/2021/04/deska-wip.jpg)
 
+{{< embed "https://www.instagram.com/p/CNz7cxfL5Wv/" >}}
+
