@@ -1,36 +1,17 @@
-<!doctype html><html dir=ltr lang=en data-theme><head>
-<title>
-Slav
+<!doctype html><html dir=ltr lang=en data-theme><head><title>Slav
 |
-NodeMcu (ESP8266) water level monitor with a voltage sensor
-</title>
-<meta charset=utf-8><meta name=generator content="Hugo 0.92.1"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name=description content="
+NodeMcu (ESP8266) water level monitor with a voltage sensor</title><meta charset=utf-8><meta name=generator content="Hugo 0.101.0"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name=description content="
       Call me Slav
 
 
-    ">
-<link rel=stylesheet href=/css/main.min.0a28517cc8cf1577ac08fce9aed49bbe584c350d58aaf61fb13d6cb13792aeb7.css integrity="sha256-CihRfMjPFXesCPzprtSbvlhMNQ1YqvYfsT1ssTeSrrc=" crossorigin=anonymous type=text/css>
-<link rel=stylesheet href=/css/markupHighlight.min.8e4c8f0a940b1596fb4c64d28a00a5ceed671fc303cb65178b4947417da9c674.css integrity="sha256-jkyPCpQLFZb7TGTSigClzu1nH8MDy2UXi0lHQX2pxnQ=" crossorigin=anonymous type=text/css>
-<link rel=stylesheet href=/css/custom.min.4422e856fcd6f2ee14f32638fe94285230801e7900face89ab29c81910e7e7ba.css integrity="sha256-RCLoVvzW8u4U8yY4/pQoUjCAHnkA+s6JqynIGRDn57o=" crossorigin=anonymous media=screen>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin=anonymous>
-<link rel="shortcut icon" href=/favicon.ico type=image/x-icon>
-<link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png>
-<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
-<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png>
-<link rel=canonical href=/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor/>
-<script type=text/javascript src=/js/anatole-header.min.2a2cd9614b7d007dfbb75e8da19e3a0fa872ceab53c6d000c00b7a0c89b85bfc.js integrity="sha256-KizZYUt9AH37t16NoZ46D6hyzqtTxtAAwAt6DIm4W/w=" crossorigin=anonymous></script>
-<script type=text/javascript src=/js/anatole-theme-switcher.min.7fd87181cdd7e8413aa64b6867bb32f3a8dc242e684fc7d5bbb9f600dbc2b6eb.js integrity="sha256-f9hxgc3X6EE6pktoZ7sy86jcJC5oT8fVu7n2ANvCtus=" crossorigin=anonymous></script>
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="NodeMcu (ESP8266) water level monitor with a voltage sensor">
-<meta name=twitter:description content="This subject in the theory looks very easy. Just get  
+    "><link rel=stylesheet href=/css/main.min.0a28517cc8cf1577ac08fce9aed49bbe584c350d58aaf61fb13d6cb13792aeb7.css integrity="sha256-CihRfMjPFXesCPzprtSbvlhMNQ1YqvYfsT1ssTeSrrc=" crossorigin=anonymous type=text/css><link rel=stylesheet href=/css/markupHighlight.min.8e4c8f0a940b1596fb4c64d28a00a5ceed671fc303cb65178b4947417da9c674.css integrity="sha256-jkyPCpQLFZb7TGTSigClzu1nH8MDy2UXi0lHQX2pxnQ=" crossorigin=anonymous type=text/css><link rel=stylesheet href=/css/custom.min.4422e856fcd6f2ee14f32638fe94285230801e7900face89ab29c81910e7e7ba.css integrity="sha256-RCLoVvzW8u4U8yY4/pQoUjCAHnkA+s6JqynIGRDn57o=" crossorigin=anonymous media=screen><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin=anonymous><link rel="shortcut icon" href=/favicon.ico type=image/x-icon><link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=canonical href=/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor/><script type=text/javascript src=/js/anatole-header.min.d0408165d31a17f17bba83038bf54e86121f85021bdf936382e636f0f77a952f.js integrity="sha256-0ECBZdMaF/F7uoMDi/VOhhIfhQIb35NjguY28Pd6lS8=" crossorigin=anonymous></script>
+<script type=text/javascript src=/js/anatole-theme-switcher.min.ea8ebe268922ef9849261a1312cd65b640595e65251ce4c00534a176afd1ac0c.js integrity="sha256-6o6+Joki75hJJhoTEs1ltkBZXmUlHOTABTShdq/RrAw=" crossorigin=anonymous></script><meta name=twitter:card content="summary"><meta name=twitter:title content="NodeMcu (ESP8266) water level monitor with a voltage sensor"><meta name=twitter:description content="This subject in the theory looks very easy. Just get  
  
  
      
  
  NodeMcu
-  board, plug sensor from the family of sensors (HY-SRF05, HC-SR04), some kind of voltage sensor and we are good to go. But you can get couple of unexpected issues here. Let’s start from the NodeMcu unit. It’s specific.">
-<script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","articleSection":"posts","name":"NodeMcu (ESP8266) water level monitor with a voltage sensor","headline":"NodeMcu (ESP8266) water level monitor with a voltage sensor","alternativeHeadline":"","description":"
+  board, plug sensor from the family of sensors (HY-SRF05, HC-SR04), some kind of voltage sensor and we are good to go. But you can get couple of unexpected issues here. Let’s start from the NodeMcu unit. It’s specific."><script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","articleSection":"posts","name":"NodeMcu (ESP8266) water level monitor with a voltage sensor","headline":"NodeMcu (ESP8266) water level monitor with a voltage sensor","alternativeHeadline":"","description":"
       
         \u003cp\u003eThis subject in the theory looks very easy. Just get  \n \n \n     \n \n \u003ca href=\u0022https:\/\/en.wikipedia.org\/wiki\/NodeMCU\u0022\u003eNodeMcu\u003c\/a\u003e\n  board, plug sensor from the family of sensors (HY-SRF05, HC-SR04), some kind of voltage sensor and we are good to go. But you can get couple of unexpected issues here. Let’s start from the NodeMcu unit. It’s specific.\u003c\/p\u003e
 
@@ -38,135 +19,20 @@ NodeMcu (ESP8266) water level monitor with a voltage sensor
       
 
 
-    ","inLanguage":"en-us","isFamilyFriendly":"true","mainEntityOfPage":{"@type":"WebPage","@id":"\/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor\/"},"author":{"@type":"Person","name":"admin"},"creator":{"@type":"Person","name":"admin"},"accountablePerson":{"@type":"Person","name":"admin"},"copyrightHolder":{"@type":"Person","name":"admin"},"copyrightYear":"2021","dateCreated":"2021-01-08T15:39:30.00Z","datePublished":"2021-01-08T15:39:30.00Z","dateModified":"2021-01-08T15:39:30.00Z","publisher":{"@type":"Organization","name":"admin","url":"/","logo":{"@type":"ImageObject","url":"\/favicon-32x32.png","width":"32","height":"32"}},"image":[],"url":"\/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor\/","wordCount":"582","genre":["Arduino"],"keywords":[]}</script>
-</head>
-<body>
-<header><div class="page-top
-animated fadeInDown">
-<a role=button class=navbar-burger data-target=navMenu aria-label=menu aria-expanded=false>
+    ","inLanguage":"en-us","isFamilyFriendly":"true","mainEntityOfPage":{"@type":"WebPage","@id":"\/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor\/"},"author":{"@type":"Person","name":"admin"},"creator":{"@type":"Person","name":"admin"},"accountablePerson":{"@type":"Person","name":"admin"},"copyrightHolder":{"@type":"Person","name":"admin"},"copyrightYear":"2021","dateCreated":"2021-01-08T15:39:30.00Z","datePublished":"2021-01-08T15:39:30.00Z","dateModified":"2021-01-08T15:39:30.00Z","publisher":{"@type":"Organization","name":"admin","url":"/","logo":{"@type":"ImageObject","url":"\/favicon-32x32.png","width":"32","height":"32"}},"image":[],"url":"\/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor\/","wordCount":"582","genre":["Arduino"],"keywords":[]}</script></head><body><header><div class="page-top
+animated fadeInDown"><a role=button class=navbar-burger data-target=navMenu aria-label=menu aria-expanded=false><span aria-hidden=true></span>
 <span aria-hidden=true></span>
-<span aria-hidden=true></span>
-<span aria-hidden=true></span>
-</a>
-<nav>
-<ul class=nav__list id=navMenu>
-<div class=nav__links>
-<li>
-<a href=/about/ title=About>About</a>
-</li>
-<li>
-<a href=/posts/ title>Blog</a>
-</li>
-<li>
-<a href=/categories/arduino/ title>Arduino</a>
-</li>
-<li>
-<a href=/categories/work/ title>Work</a>
-</li>
-<li>
-<a href=/contact/ title=Contact>Contact</a>
-</li>
-<li><a href=/ title=EN>EN</a></li>
-<li><a href=/pl/ title=PL>PL</a></li>
-</div>
-<li>
-<a class=theme-switch title="Switch Theme">
-<i class="fas fa-adjust fa-fw" aria-hidden=true></i>
-</a>
-</li>
-</ul>
-</nav>
-</div>
-</header>
-<div class=wrapper>
-<aside><div class="sidebar
-animated fadeInDown">
-<div class=sidebar__content>
-<div class=logo-title>
-<div class=title>
-<img src=/images/slavsq.jpg alt="profile picture">
-<h3 title><a href=/>My blog</a></h3>
-<div class=description>
-<p>Call me Slav</p>
-</div>
-</div>
-</div>
-<ul class=social-links>
-<li>
-<a href=https://linkedin.com/in/slawomirjasinski rel=me aria-label=Linkedin>
-<i class="fab fa-linkedin fa-2x" aria-hidden=true></i>
-</a>
-</li>
-<li>
-<a href=https://github.com/slav123 rel=me aria-label>
-<i class="fab fa-github fa-2x" aria-hidden=true></i>
-</a>
-</li>
-<li>
-<a href=https://stackoverflow.com/users/432573/ rel=me aria-label="Stack Overflow">
-<i class="fab fa-stack-overflow fa-2x" aria-hidden=true></i>
-</a>
-</li>
-<li>
-<a href=https://twitter.com/slavomirj rel=me aria-label>
-<i class="fab fa-twitter fa-2x" aria-hidden=true></i>
-</a>
-</li>
-<li>
-<a href=https://www.instagram.com/slavomirj/ rel=me aria-label=instagram>
-<i class="fab fa-instagram fa-2x" aria-hidden=true></i>
-</a>
-</li>
-<li>
-<a href=https://www.spidersoft.com.au rel=me aria-label=business>
-<i class="fas fa-business-time fa-2x" aria-hidden=true></i>
-</a>
-</li>
-<li>
-<a href=mailto:slav123@gmail.com rel=me aria-label=e-mail>
-<i class="fas fa-envelope fa-2x" aria-hidden=true></i>
-</a>
-</li>
-</ul>
-</div><footer class="footer footer--sidebar">
-<div class=by_farbox>
-<ul class=footer__list>
-<li class=footer__item>
-&copy;
-2011-2021
-</li>
-</ul>
-</div>
-</footer>
-<script type=text/javascript src=/js/medium-zoom.min.71100d84fab0ad794b8399a66ac810700cc78d703f715dc10af4d7ba7b761362.js integrity="sha256-cRANhPqwrXlLg5mmasgQcAzHjXA/cV3BCvTXunt2E2I=" crossorigin=anonymous></script></div>
-</aside>
-<main>
-<div class=autopagerize_page_element>
-<div class=content>
-<div class="post
-animated fadeInDown">
-<div class=post-content>
-<img class=post-thumbnail src=/images/2021/01/IMG_3854-scaled.jpeg alt="Thumbnail image">
-<div class=post-title>
-<h1>NodeMcu (ESP8266) water level monitor with a voltage sensor</h1>
-<div class=info>
-<em class="fas fa-calendar-day"></em>
-<span class=date>
-Fri, Jan 8, 2021
-</span>
+<span aria-hidden=true></span></a><nav><ul class=nav__list id=navMenu><div class=nav__links><li><a href=/about/ title=About>About</a></li><li><a href=/posts/ title>Blog</a></li><li><a href=/categories/arduino/ title>Arduino</a></li><li><a href=/categories/work/ title>Work</a></li><li><a href=/contact/ title=Contact>Contact</a></li><li><a href=/ title=EN>EN</a></li><li><a href=/pl/ title=PL>PL</a></li></div><li><a class=theme-switch title="Switch Theme"><i class="fas fa-adjust fa-fw" aria-hidden=true></i></a></li></ul></nav></div></header><div class=wrapper><aside><div class="sidebar
+animated fadeInDown"><div class=sidebar__content><div class=logo-title><div class=title><img src=/images/slavsq.jpg alt="profile picture"><h3 title><a href=/>My blog</a></h3><div class=description><p>Call me Slav</p></div></div></div><ul class=social-links><li><a href=https://linkedin.com/in/slawomirjasinski rel=me aria-label=Linkedin><i class="fab fa-linkedin fa-2x" aria-hidden=true></i></a></li><li><a href=https://github.com/slav123 rel=me aria-label><i class="fab fa-github fa-2x" aria-hidden=true></i></a></li><li><a href=https://stackoverflow.com/users/432573/ rel=me aria-label="Stack Overflow"><i class="fab fa-stack-overflow fa-2x" aria-hidden=true></i></a></li><li><a href=https://twitter.com/slavomirj rel=me aria-label><i class="fab fa-twitter fa-2x" aria-hidden=true></i></a></li><li><a href=https://www.instagram.com/slavomirj/ rel=me aria-label=instagram><i class="fab fa-instagram fa-2x" aria-hidden=true></i></a></li><li><a href=https://www.spidersoft.com.au rel=me aria-label=business><i class="fas fa-business-time fa-2x" aria-hidden=true></i></a></li><li><a href=mailto:slav123@gmail.com rel=me aria-label=e-mail><i class="fas fa-envelope fa-2x" aria-hidden=true></i></a></li></ul></div><footer class="footer footer--sidebar"><div class=by_farbox><ul class=footer__list><li class=footer__item>&copy;
+2011-2022</li></ul></div></footer><script type=text/javascript src=/js/medium-zoom.min.51d7548d5d0e5d4ff7991252239ce6abf1fd527a0eabad7ce6b49aa21f6e08da.js integrity="sha256-UddUjV0OXU/3mRJSI5zmq/H9UnoOq6185rSaoh9uCNo=" crossorigin=anonymous></script></div></aside><main><div class=autopagerize_page_element><div class=content><div class="post
+animated fadeInDown"><div class=post-content><img class=post-thumbnail src=/images/2021/01/IMG_3854-scaled.jpeg alt="Thumbnail image"><div class=post-title><h1>NodeMcu (ESP8266) water level monitor with a voltage sensor</h1><div class=info><em class="fas fa-calendar-day"></em>
+<span class=date>Fri, Jan 8, 2021</span>
 <em class="fas fa-stopwatch"></em>
-<span class=reading-time>3-minute read</span>
-</div>
-</div><p>This subject in the theory looks very easy. Just get
+<span class=reading-time>3-minute read</span></div></div><p>This subject in the theory looks very easy. Just get
 <a href=https://en.wikipedia.org/wiki/NodeMCU>NodeMcu</a>
-board, plug sensor from the family of sensors (HY-SRF05, HC-SR04), some kind of voltage sensor and we are good to go. But you can get couple of unexpected issues here. Let’s start from the NodeMcu unit. It’s specific.</p>
-<h2 id=weird-nodemcu-pin-arrangement>Weird NodeMcu PIN arrangement</h2>
-<p>First thing first pins on the board doesn’t match pins in the code. I mean – addressing is not se straight forward like in regular Arduino boards.
+board, plug sensor from the family of sensors (HY-SRF05, HC-SR04), some kind of voltage sensor and we are good to go. But you can get couple of unexpected issues here. Let’s start from the NodeMcu unit. It’s specific.</p><h2 id=weird-nodemcu-pin-arrangement>Weird NodeMcu PIN arrangement</h2><p>First thing first pins on the board doesn’t match pins in the code. I mean – addressing is not se straight forward like in regular Arduino boards.
 <a href=https://nodemcu.readthedocs.io/en/latest/modules/gpio/>Here is a official mapping of pin outs</a>
-.</p>
-<p><img src=/images/2021/01/nodemcu-pinout.png alt="NodeMcu pin mapping" title="NodeMcu pin mapping"></p>
-<p>A little bit of helper code:</p>
-<pre tabindex=0><code>#define PIN_WIRE_SDA (4)
+.</p><p><img src=/images/2021/01/nodemcu-pinout.png alt="NodeMcu pin mapping" title="NodeMcu pin mapping"></p><p>A little bit of helper code:</p><pre tabindex=0><code>#define PIN_WIRE_SDA (4)
 #define PIN_WIRE_SCL (5)
 
 static const uint8_t SDA = PIN_WIRE_SDA;
@@ -186,12 +52,7 @@ static const uint8_t D7   = 13;
 static const uint8_t D8   = 15;
 static const uint8_t D9   = 3;
 static const uint8_t D10 = 1;
-</code></pre><p>It’s good to have something to map them according to “regular” naming – so do whenever i have to use digital pin D0 – use D0 instead of trying to guess 16 and so on.</p>
-<h2 id=reserved-pins>Reserved Pins</h2>
-<p>You don’t hear about it often, but for example pins D3 & D4 (GPIO2 and GPIO0) need to be both HIGH to boot in normal execution mode. What’s the isse then ? When I hooked my HC-SR04 to this pins it provides LOW in idle state – so my board didn’t boot. Solution – move on to higher pins.</p>
-<h2 id=voltage-sensor-calculations>Voltage Sensor calculations</h2>
-<p>Every other example found in the web gives these calculations:</p>
-<pre tabindex=0><code>const int voltageSensor = A0;
+</code></pre><p>It’s good to have something to map them according to “regular” naming – so do whenever i have to use digital pin D0 – use D0 instead of trying to guess 16 and so on.</p><h2 id=reserved-pins>Reserved Pins</h2><p>You don’t hear about it often, but for example pins D3 & D4 (GPIO2 and GPIO0) need to be both HIGH to boot in normal execution mode. What’s the isse then ? When I hooked my HC-SR04 to this pins it provides LOW in idle state – so my board didn’t boot. Solution – move on to higher pins.</p><h2 id=voltage-sensor-calculations>Voltage Sensor calculations</h2><p>Every other example found in the web gives these calculations:</p><pre tabindex=0><code>const int voltageSensor = A0;
 
 float vOUT = 0.0;
 float vIN = 0.0;
@@ -202,39 +63,7 @@ int value = 0;
 value = analogRead(voltageSensor);
 vOUT = (value * 5.0) / 1024.0;
 vIN = vOUT / (R2/(R1+R2));
-</code></pre><p><img src=/images/2021/01/Standard-Voltage-Sensor-Module-Test-Electronic-Bricks-For-Robot-For-Arduino.jpg_Q90.jpg alt></p>
-<blockquote>
-<p>Without going into to much details – we do have value of resistors here (R1, R2) and then magic formulas vOUT and vIN – nobody mentions that magical number 5.0 is not random… it’s reverence value of your board. So 5.0 it’s good for regular Arduino board powered by 5.0V but not so good for NodeMcu which has 3.3V…</p>
-</blockquote>
-<h2 id=powering-whole-module>Powering whole module</h2>
-<p>NodeMcu will be happy with 3.3V but HC-SR04 needs a little bit more. Power your sensor with 5V – otherwise your distance sensor wont work correctly.</p>
-<p>And also – not sure how frequent you need your data to be updated, but small batter won’t stand to long. We have to save some energy. The easiest way to save the juice is to use sleep mode for out board.</p>
-<p>There are four types of sleep modes for the ESP8266: No-sleep, Modem-sleep, Light-sleep, and Deep-sleep.</p>
-<p><img src=/images/2021/01/esp8266_sleep_options.png alt title="ESP8266 board sleep modes"></p>
-<p>I wouldn’t bother with anything then deep-sleep. There is a small requirement – If you use the deep sleep mode, you have to connect D0 with RST on the ESP8266 NodeMCU. You can find a lot of
+</code></pre><p><img src=/images/2021/01/Standard-Voltage-Sensor-Module-Test-Electronic-Bricks-For-Robot-For-Arduino.jpg_Q90.jpg alt></p><blockquote><p>Without going into to much details – we do have value of resistors here (R1, R2) and then magic formulas vOUT and vIN – nobody mentions that magical number 5.0 is not random… it’s reverence value of your board. So 5.0 it’s good for regular Arduino board powered by 5.0V but not so good for NodeMcu which has 3.3V…</p></blockquote><h2 id=powering-whole-module>Powering whole module</h2><p>NodeMcu will be happy with 3.3V but HC-SR04 needs a little bit more. Power your sensor with 5V – otherwise your distance sensor wont work correctly.</p><p>And also – not sure how frequent you need your data to be updated, but small batter won’t stand to long. We have to save some energy. The easiest way to save the juice is to use sleep mode for out board.</p><p>There are four types of sleep modes for the ESP8266: No-sleep, Modem-sleep, Light-sleep, and Deep-sleep.</p><p><img src=/images/2021/01/esp8266_sleep_options.png alt title="ESP8266 board sleep modes"></p><p>I wouldn’t bother with anything then deep-sleep. There is a small requirement – If you use the deep sleep mode, you have to connect D0 with RST on the ESP8266 NodeMCU. You can find a lot of
 <a href=https://diyi0t.com/how-to-reduce-the-esp8266-power-consumption/>good articles</a>
-around this subject. So our goal is to sleep most of the time. We just need check every now and then water level, and batter level. Send results to out collector service and go back to sleep to preserve energy.</p>
-<p>So finally I end up with code bellow. Let me know if you have any questions.</p>
-<h2 id=the-code>The Code</h2>
-<script type=application/javascript src=https://gist.github.com/slav123/00e2231742edd91ad27472369a965654.js></script></div>
-<div class=post-footer>
-<div class=info>
-<span class=separator><a class=category href=/categories/arduino/>Arduino</a></span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</main>
-</div><footer class="footer footer--base">
-<div class=by_farbox>
-<ul class=footer__list>
-<li class=footer__item>
-&copy;
-2011-2021
-</li>
-</ul>
-</div>
-</footer>
-<script type=text/javascript src=/js/medium-zoom.min.71100d84fab0ad794b8399a66ac810700cc78d703f715dc10af4d7ba7b761362.js integrity="sha256-cRANhPqwrXlLg5mmasgQcAzHjXA/cV3BCvTXunt2E2I=" crossorigin=anonymous></script></body>
-</html>
+around this subject. So our goal is to sleep most of the time. We just need check every now and then water level, and batter level. Send results to out collector service and go back to sleep to preserve energy.</p><p>So finally I end up with code bellow. Let me know if you have any questions.</p><h2 id=the-code>The Code</h2><script type=application/javascript src=https://gist.github.com/slav123/00e2231742edd91ad27472369a965654.js></script></div><div class=post-footer><div class=info><span class=separator><a class=category href=/categories/arduino/>Arduino</a></span></div></div></div></div></div></main></div><footer class="footer footer--base"><div class=by_farbox><ul class=footer__list><li class=footer__item>&copy;
+2011-2022</li></ul></div></footer><script type=text/javascript src=/js/medium-zoom.min.51d7548d5d0e5d4ff7991252239ce6abf1fd527a0eabad7ce6b49aa21f6e08da.js integrity="sha256-UddUjV0OXU/3mRJSI5zmq/H9UnoOq6185rSaoh9uCNo=" crossorigin=anonymous></script></body></html>
