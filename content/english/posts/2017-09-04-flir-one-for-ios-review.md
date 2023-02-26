@@ -17,7 +17,7 @@ While ago I purchased Flir One for iOS. Flier is Thermal Imaging Camera Attachme
 
 <!--more-->
 
-Device is small, has very nice packaging and it works. No special setup &#8211; just need to download their app and you can enjoy play.
+Device is small, has very nice packaging, and it works. No special setup &#8211; just need to download their app and you can enjoy play.
 
 &nbsp;
 

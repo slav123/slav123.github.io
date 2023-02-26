@@ -4,9 +4,9 @@ author: admin
 url: /mr-slav-i-solve-problems/
 thumbnail: /images/2018/11/maxresdefault.jpg
 ---
-Quite often people ask me what I do for living, and I always struggle. Am I a programmer ? Web developer ? Software Engineer ? Software Architect ? Technical Lead ? Technical Director ? &#8211; I owned each of these titles among my carrier and still don&#8217;t know what is the best one. 
+People often ask me what my job title is and what I do for a living, and I always struggle. Am I a programmer? Web developer? Software Engineer? Solution Architect? Technical Lead? Technical Director? &#8211; I owned each of these titles in my carrier and still don&#8217;t know the best one.
 
-I think my best skill is _intuition_ &#8211; sometimes I just know what will be the bottleneck in software / setup or just know what is the best solution without testing it first.
+I solve problems using my 20 years of experience and excellent intuition.
 
 Anyways &#8211; please check my [work][1] to see what actual problems I did solved&#8230;
 
