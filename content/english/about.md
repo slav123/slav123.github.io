@@ -35,14 +35,14 @@ April 2022
 April 2022
 
 ### AWS
-* [Introduction to Designing Data Lakes on AWS](https://www.coursera.org/account/accomplishments/certificate/LQWDW39EUWBA)
-June 2022
+https://coursera.org/share/0f6de5adfa0ceb8c237a46801059c6ec
+
+* [Amazon Web Services AWS Cloud Solutions Architect Specialization](https://coursera.org/share/0f6de5adfa0ceb8c237a46801059c6ec)
+Mar 2023
 * [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/certificate/8WUHJMYVXNT5)
 May 2022
 * [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/EN66ELRK9GDY)
 February 2022
-* [AWS Cloud Technical Essentials](https://coursera.org/share/5fca237b7c7400c97aad8745162c9c29)
-Jan 2023
 * [Introduction to AWS Identity and Access Management](https://www.coursera.org/account/accomplishments/certificate/UUWTD7FWS337)
 Jan 2023
 
