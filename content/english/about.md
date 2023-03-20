@@ -28,15 +28,9 @@ So if you want to use this experience, please use this form to [contact](/contac
 ### GO
 * [Programming with Google Go Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/XH7ZMSXFS779) - University of California, Irvine - July 2022
 
-### Kubernetes
-* [Kubernetes: Create Multi-App Cluster with Ingress & Logging](https://www.coursera.org/account/accomplishments/certificate/9HML386FB34Q)
-April 2022
-* [Kubernetes: Basic Architecture and First Deployment](https://www.coursera.org/account/accomplishments/certificate/8GT7MKUGGAUX)
-April 2022
-
 ### AWS
 
-* [Amazon Web Services AWS Cloud Solutions Architect Specialization](https://coursera.org/share/0f6de5adfa0ceb8c237a46801059c6ec)
+* **[Amazon Web Services AWS Cloud Solutions Architect Specialization](https://coursera.org/share/0f6de5adfa0ceb8c237a46801059c6ec)**
 Mar 2023
 * [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/certificate/8WUHJMYVXNT5)
 May 2022
@@ -44,6 +38,13 @@ May 2022
 February 2022
 * [Introduction to AWS Identity and Access Management](https://www.coursera.org/account/accomplishments/certificate/UUWTD7FWS337)
 Jan 2023
+
+### Kubernetes
+* [Kubernetes: Create Multi-App Cluster with Ingress & Logging](https://www.coursera.org/account/accomplishments/certificate/9HML386FB34Q)
+  April 2022
+* [Kubernetes: Basic Architecture and First Deployment](https://www.coursera.org/account/accomplishments/certificate/8GT7MKUGGAUX)
+  April 2022
+
 
 ### Soft
 * [Relationship Management](https://www.coursera.org/account/accomplishments/certificate/LH9LAHTELHL8) - Rice University -
