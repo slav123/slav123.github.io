@@ -35,7 +35,6 @@ April 2022
 April 2022
 
 ### AWS
-https://coursera.org/share/0f6de5adfa0ceb8c237a46801059c6ec
 
 * [Amazon Web Services AWS Cloud Solutions Architect Specialization](https://coursera.org/share/0f6de5adfa0ceb8c237a46801059c6ec)
 Mar 2023
