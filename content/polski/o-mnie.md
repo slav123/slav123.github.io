@@ -28,7 +28,13 @@ Posiadam dyplom z _Zarządzania i Marketingu_ oraz ponad 15 lat pracy w branży 
 
 
 ### AWS
+![AWS Certified Solutions Architect - Associate](https://cdn.spidersoft.pl/AWS-Certified-Solutions-Architect-Associate_badge@1x.png "AWS Certified Solutions Architect - Associate")
+AWS Certified Solutions Architect - Associate
 
+* [Containerized Applications on AWS](https://www.coursera.org/account/accomplishments/certificate/D6M64UK7A4X8)
+  Sierpień 2023
+* [Introduction to Machine Learning on AWS](https://www.coursera.org/account/accomplishments/certificate/VBS2T7LVSKUS)
+  Sierpień 2023
 * **[Amazon Web Services AWS Cloud Solutions Architect Specialization](https://coursera.org/share/0f6de5adfa0ceb8c237a46801059c6ec)**
   Marzec 2023
 * [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/certificate/8WUHJMYVXNT5)

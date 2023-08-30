@@ -28,14 +28,20 @@ So if you want to use this experience, please use this form to [contact](/contac
 
 ### AWS
 
+* [AWS Certified Solutions Architect - Associate](http://localhost:1313/aws-certified-solutions-architect/)
+![AWS Certified Solutions Architect - Associate](https://cdn.spidersoft.pl/AWS-Certified-Solutions-Architect-Associate_badge@1x.png "AWS Certified Solutions Architect - Associate")
+* [Containerized Applications on AWS](https://www.coursera.org/account/accomplishments/certificate/D6M64UK7A4X8)
+  Aug 2023
+* [Introduction to Machine Learning on AWS](https://www.coursera.org/account/accomplishments/certificate/VBS2T7LVSKUS) 
+  Aug 2023
 * **[Amazon Web Services AWS Cloud Solutions Architect Specialization](https://coursera.org/share/0f6de5adfa0ceb8c237a46801059c6ec)**
-Mar 2023
+  Mar 2023
 * [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/certificate/8WUHJMYVXNT5)
-May 2022
+  May 2022
 * [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/EN66ELRK9GDY)
-February 2022
+  February 2022
 * [Introduction to AWS Identity and Access Management](https://www.coursera.org/account/accomplishments/certificate/UUWTD7FWS337)
-Jan 2023
+  Jan 2023
 
 ### Kubernetes
 * [Kubernetes: Create Multi-App Cluster with Ingress & Logging](https://www.coursera.org/account/accomplishments/certificate/9HML386FB34Q)
