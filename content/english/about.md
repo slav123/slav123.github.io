@@ -21,6 +21,21 @@ Slawomir has a Bachelor degree in Marketing and Management from the College of M
 
 So if you want to use this experience, please use this form to [contact](/contact).
 
+## AI Expertise 
+
+1. **Prompt Engineering for ChatGPT**
+    Developed and optimized conversational prompts to enhance user engagement and improve the performance of ChatGPT models in customer service applications.
+2. **Generative AI with Large Language Models**
+    Worked on projects involving text generation, summarization, and translation using state-of-the-art language models like GPT-3 and BERT.
+3. **Machine Learning Techniques** 
+    Implemented various NLP and machine learning techniques such as sentiment analysis, text classification, and clustering algorithms for diverse business applications.
+4. **AWS Bedrock Experience**
+    Utilized AWS Bedrock for scalable machine learning solutions, focusing on data engineering, model training, and deployment in a cloud-based environment.
+5. **Self-Hosted AI Models for Data Processing**
+    Built and deployed self-hosted machine learning models for real-time data processing, including data cleaning, transformation, and feature extraction.
+6. **Cross-Disciplinary AI Applications**
+    Collaborated with teams across different domains to integrate AI solutions into existing systems, enhancing efficiency and automating manual processes.
+
 ## Certificates
 
 ### GO
