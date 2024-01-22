@@ -38,6 +38,9 @@ So if you want to use this experience, please use this form to [contact](/contac
 
 ## Certificates
 
+### AI
+* [AI For Business](https://www.coursera.org/account/accomplishments/specialization/PF4K9HWFS2F6) - Dec 2023
+
 ### GO
 * [Programming with Google Go Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/XH7ZMSXFS779) - University of California, Irvine - July 2022
 

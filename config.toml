@@ -10,7 +10,7 @@ tag = "tags"
 [params]
 title = "I'm Slawomir Jasinski"
 author = "Slav"
-copyright = "2011-2023"
+copyright = "2011-2024"
 description = "Call me Slav"
 mainSections = ["post"]
 enableMediumZoom = true
