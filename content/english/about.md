@@ -10,11 +10,12 @@ disableComments: true
 ![logo](/images/2018/01/Coder-sm.png#right)SLAWOMIR (Slav) JASINSKI
 
 ## EXPERTISE  
-Skilled in software development and platform-agnostic, he has the expertise to deliver a wide range of modern digital technologies, including physical installations, software solutions, and social media platforms.
 
-With experience working on renowned Australian brands such as [Commonwealth Bank](https://www.commbank.com.au/), [Telstra](https://www.telstra.com.au/), [American Express](https://www.americanexpress.com/en-au/), [Daikin](https://www.daikin.com.au/), [Jim Beam](https://www.jimbeam.com/en-au/), and [Skoda](https://www.skoda.com.au/), Slav enjoys tackling even the most unconventional challenges proposed by creative teams. He has also worked extensively in Europe with companies like Hewlett & Packard, MAN Trucks, and YKK.
+Forward-thinking Solutions Architect specializing in seamless cloud migration. With experience working on 3 continents, he expertly leads client infrastructure transitions to the cloud, optimizing systems for peak performance and security. His work in deploying recommendation systems for major European media brands demonstrates his ability to scope tailored solutions and streamline processes for enhanced delivery.
 
-His portfolio features hundreds of successful projects for clients worldwide, and his digital publications can be found online via this website.
+With a rich background in software development, Slawomir excels across a range of digital technologies. His work with top Australian brands like [Commonwealth Bank](https://www.commbank.com.au/), [American Express](https://www.americanexpress.com/en-au/), [Skoda](https://www.skoda.com.au/) and [Telstra](https://www.telstra.com.au/), alongside European brands such as MAN Trucks, JYSK, underscores his capability to tackle unconventional challenges and drive innovation.
+
+Renowned for his problem-solving skills and technical acumen, Slawomir thrives in the evolving technology landscape. His commitment to excellence and passion for digital transformation ensure sustainable, forward-thinking solutions that exceed client expectations.
 
 ## QUALIFICATIONS  
 Slawomir has a Bachelor degree in Marketing and Management from the College of Management and Finance in Wroclaw, Poland. His education is supported by eighteen years experience in the digital industry on broad range roles.
@@ -46,8 +47,8 @@ So if you want to use this experience, please use this form to [contact](/contac
 
 ### AWS
 
-* [AWS Certified Solutions Architect - Associate](http://localhost:1313/aws-certified-solutions-architect/)
-![AWS Certified Solutions Architect - Associate](https://cdn.spidersoft.pl/AWS-Certified-Solutions-Architect-Associate_badge@1x.png "AWS Certified Solutions Architect - Associate")
+* [AWS Certified Solutions Architect - Associate](/aws-certified-solutions-architect/)
+![AWS Certified Solutions Architect - Associate](https://cdn.gex.pl/AWS-Certified-Solutions-Architect-Associate_badge@1x.png "AWS Certified Solutions Architect - Associate")
 * [Containerized Applications on AWS](https://www.coursera.org/account/accomplishments/certificate/D6M64UK7A4X8)
   Aug 2023
 * [Introduction to Machine Learning on AWS](https://www.coursera.org/account/accomplishments/certificate/VBS2T7LVSKUS) 
