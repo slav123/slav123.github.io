@@ -6,8 +6,9 @@ type: post
 date: 2020-09-09T10:28:51+00:00
 url: /2020/warzenie-piwa
 thumbnail: /images/2020/09/dzbanek-piwa.jpg
+draft: true
 categories:
-- Diy
+- DIY
 ---
 Warzeniem piwa zaraził mnie znajomy, który poczęstował mnie swoimi produkcjami. Wcześniej nie miałem żadnego zainteresowania przy produkcji własnych alkoholi. Zaczęło się od cydru - który wydawał mi się wielkim wyzwaniem, ale dosyć szybko przerzuciłem się na warzenie piwa. 
 

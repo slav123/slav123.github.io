@@ -15,10 +15,10 @@ I needed key-less way to open my garage door. Quite often I forgot my remote, so
 
 Basic idea &#8211; keypad + arduino + relay to click the button. 
 
-![](/images/2019/03/arduino-keypad-relay.jpg "Keypad") 
+![Keypad](/images/2019/03/arduino-keypad-relay.jpg "Keypad") 
 
 
-![](/images/2019/03/arduino-lock-1-1024x768.jpg "Prototype board")"
+![Prototype board](/images/2019/03/arduino-lock-1-1024x768.jpg "Prototype board")
 
 Source code is pretty simple. Read input from the keypad, check if it&#8217;s matched against 1, or second 2. If so &#8211; just fire signal to open relay for 3 or 30 seconds (second one is for other door). 
 

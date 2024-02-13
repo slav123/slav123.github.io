@@ -6,8 +6,9 @@ type: post
 date: 2021-04-03T10:28:51+00:00
 url: /2021/plywajace-narozne-biurko
 thumbnail: /images/2021/04/plywajace-biurko.jpg
+draft: true
 categories:
-- Diy
+- DIY
 ---
 Od dawna chciałem wymienić moje "tyczasowe" rozwiązanie z Ikei na coś bardziej solidnego. Miało być duzo miejsca, nie miało mieć typowych nóg - oraz miało być narożne.
 
