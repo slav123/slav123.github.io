@@ -16,7 +16,7 @@ mainSections = ["post"]
 enableMediumZoom = true
 assetDir = "assets"
 contentratio = 0.7
-profilePicture = "images/slavsq.jpg"
+profilePicture = "images/slav-sq-2.jpg"
 customCss = ["css/custom.css"]
 
 [permalinks]
