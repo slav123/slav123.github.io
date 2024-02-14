@@ -41,7 +41,7 @@ name   = "Work"
 weight = 30
 
 [[Languages.pl.menu.main]]
-url = "/pl/categories/praca/"
+url = "/pl/categories/blog/"
 identifier = "blog"
 name   = "Blog"
 weight = 25
@@ -50,7 +50,7 @@ weight = 25
 [[Languages.pl.menu.main]]
 url = "/pl/categories/praca/"
 identifier = "praca"
-name   = "praca"
+name   = "Praca"
 weight = 30
 
 
