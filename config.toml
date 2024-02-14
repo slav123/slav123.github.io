@@ -8,7 +8,7 @@ category = "categories"
 tag = "tags"
 
 [params]
-title = "I'm Slawomir Jasinski"
+title = "Slawomir Jasinski"
 author = "Slav"
 copyright = "2011-2024"
 description = "Call me Slav"
@@ -41,10 +41,19 @@ name   = "Work"
 weight = 30
 
 [[Languages.pl.menu.main]]
-url = "/pl/categories/diy/"
-identifier = "diy"
-name   = "Diy"
+url = "/pl/categories/praca/"
+identifier = "blog"
+name   = "Blog"
+weight = 25
+
+
+[[Languages.pl.menu.main]]
+url = "/pl/categories/praca/"
+identifier = "praca"
+name   = "praca"
 weight = 30
+
+
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
