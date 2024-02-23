@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-11-30T02:10:58+00:00
 url: /simplest-arduino-clock-with-7-digit-segment-display/
-thumbnail: /images/2013/11/IMG_0328-310x310.jpg
+thumbnail: /images/2013/11/IMG_0328.jpg
 categories:
   - Arduino
 tags:
@@ -28,7 +28,7 @@ I already was a proud owner of the whole set, which was:
 |---|---|---|
 |  ![](/images/2013/11/7-Segment-LED-Display-4-Digits-Common-Anode-High-Light-Red-KHN40561-.jpg) | ![](/images/2013/11/Tiny-RTC-I2C-DS1307-Real-Time-Clock-Module-ARM-PIC-for-Arduino-1_10-more-1.jpg) | ![](/images/2013/11/Tiny-RTC-I2C-DS1307-Real-Time-Clock-Module-ARM-PIC-for-Arduino-1_10-more-3.jpg)
 
-working maginc
+working magic
 
 ![](/images/2013/11/IMG_0326.jpg)
 
