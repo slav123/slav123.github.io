@@ -6,9 +6,6 @@ date: 2019-03-06T09:00:17+00:00
 url: /arduino-double-relay-keypad-lock/
 categories:
   - Arduino
-tags:
-  - keypad
-  - relay
 
 ---
 I needed key-less way to open my garage door. Quite often I forgot my remote, so just need something easy to open them without remote. Because I have regular &#8220;ring type&#8221; opener (click and release to open door) needed something to &#8220;click&#8221; door for me based on something which I remember (not own &#8211; remote / key / etc).

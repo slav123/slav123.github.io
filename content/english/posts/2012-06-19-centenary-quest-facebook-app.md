@@ -5,7 +5,6 @@ type: post
 date: 2012-06-19T06:39:30+00:00
 url: /centenary-quest-facebook-app/
 categories:
-  - Integration
   - Work
 
 ---

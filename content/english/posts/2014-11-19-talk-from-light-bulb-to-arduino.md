@@ -8,9 +8,6 @@ thumbnail: /images/2015/06/2014-07-16-19.30.30.jpg
 categories:
   - Arduino
   - Work
-tags:
-  - arduino
-  - work
 
 ---
 I had opportunity to give a talk small talk about my work with Arduino on Commerce Factory &#8211; Nov 2014.

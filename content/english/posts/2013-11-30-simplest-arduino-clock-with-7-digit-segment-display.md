@@ -7,8 +7,6 @@ url: /simplest-arduino-clock-with-7-digit-segment-display/
 thumbnail: /images/2013/11/IMG_0328.jpg
 categories:
   - Arduino
-tags:
-  - clock
 
 ---
 From time to time, I&#8217;m also working on less &#8220;web&#8221; related project. This time, a wanted to play a bit with Arduino platform. The task was pretty simple &#8211; to build a clock. Yes &#8211; these days, we don&#8217;t have enough time measuring devices like mobiles, microwaves, computers &#8211; I wanted to build another one.

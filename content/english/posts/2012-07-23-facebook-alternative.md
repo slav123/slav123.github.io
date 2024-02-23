@@ -9,6 +9,6 @@ categories:
 format: image
 
 ---
-![](/images/2016/09/slavsbook.jpg)
+![Better Facebook](/images/2016/09/slavsbook.jpg)
 
- [1]: http://www.jasinski.us/images/2016/09/slavsbook.jpg
+ [1]: /images/2016/09/slavsbook.jpg

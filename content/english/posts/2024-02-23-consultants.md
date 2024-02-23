@@ -1,15 +1,15 @@
 ---
-title: Jak uczenie maszynowe (ML) przekształca decyzje biznesowe
+title: Consultants Are Like Avocados
 author: slav
 type: post
 date: 2024-02-26
-url: /2024/potencjal-nlp-llm
+url: /2024/consultants-are-like-avocados
 thumbnail: /images/2024/02/avocados.webp
 description: Consultants: Not Useless, Just Misunderstood! This lighthearted article challenges Steve Jobs' view on consultants – they're more than just fancy charts, they bring perspective and experience!
 categories:
  - Blog
 tags:
- - ai
+ - consulting
 
 ---
 

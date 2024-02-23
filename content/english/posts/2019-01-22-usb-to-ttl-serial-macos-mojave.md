@@ -7,9 +7,6 @@ url: /usb-to-ttl-serial-macos-mojave/
 thumbnail: /images/2019/01/usb-ttl-serial.jpg
 categories:
   - Arduino
-tags:
-  - drivers
-  - serial
   
 ---
 Got a bunch of these little f*ckers and couldn&#8217;t make them to work with my Mojave fresh install. Previously they were working, and now they are gone.

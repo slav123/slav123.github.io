@@ -7,10 +7,6 @@ url: /flir-one-for-ios-review/
 thumbnail: /images/2017/09/IMG_3659.jpg
 categories:
   - Random
-tags:
-  - flir
-  - ios
-  - review
 
 ---
 While ago I purchased Flir One for iOS. Flier is Thermal Imaging Camera Attachment &#8211; basically it extends your iPhone with Thermal vision.

@@ -6,11 +6,6 @@ date: 2013-12-04T00:15:42+00:00
 url: /arduino-clock-timezones-and-something-more/
 categories:
   - Arduino
-tags:
-  - arduino
-  - clock
-  - rtc
-  - timezones
 
 ---
 Following with my last project &#8211; [Arduino clock](/simplest-arduino-clock-with-7-digit-segment-display/) &#8211; i wanted to extend it with 2 features:

@@ -7,11 +7,6 @@ url: /another-day-another-award/
 thumbnail: /images/2015/06/R481_TelstraSNYE_MobileApp6_1.jpg
 categories:
   - Work
-tags:
-  - agency
-  - award
-  - imagination
-  - mobile
 
 ---
 For 3 years in a row I&#8217;ve been working on Telstra NYE Mobile APP (via Imagination) and this time we won Awards. Obviously credits goes to whole team &#8211; but I&#8217;m glad the we make it this time.

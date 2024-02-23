@@ -6,8 +6,6 @@ date: 2016-01-19T01:28:51+00:00
 url: /disable-keyboard-vibrate-on-android-6/
 categories:
   - Random
-tags:
-  - android
 
 ---
 It&#8217;s not so easy to find. So

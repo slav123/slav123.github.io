@@ -6,8 +6,6 @@ date: 2014-09-07T11:26:43+00:00
 url: /how-to-create-information-kiosk-using-chrome-and-touch-screens/
 categories:
   - Case Study
-tags:
-  - imagination
 
 ---
 While ago I was working in company called Imagination. I&#8217;ve done some very cool projects while I was working there, and this is history off one of them.
