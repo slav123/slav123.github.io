@@ -29,6 +29,6 @@ And obviously you can upload blink code to your new device:
 
 ![](/images/2014/09/blink.png)
 
- [1]: http://www.jasinski.us/images/2014/09/ch341ser_macv12.zip
- [2]: http://www.jasinski.us/images/2014/09/ch341ser_macv13.zip
- [3]: http://www.jasinski.us/images/2014/09/CH341SER_MAC.zip
+ [1]: /images/2014/09/ch341ser_macv12.zip
+ [2]: /images/2014/09/ch341ser_macv13.zip
+ [3]: /images/2014/09/CH341SER_MAC.zip
