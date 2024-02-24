@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-04-15T04:42:30+00:00
 url: /microsite-for-contact-centre-technology-platform/
-thumbnail: /images/2013/04/website-template-310x310.jpg
+thumbnail: /images/2013/04/website-template.jpg
 categories:
   - Work
 

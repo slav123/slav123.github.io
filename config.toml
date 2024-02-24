@@ -11,7 +11,7 @@ tag = "tags"
 title = "Slawomir Jasinski"
 author = "Slav"
 copyright = "2011-2024"
-description = "Call me Slav"
+description = "Forward-thinking Solutions Architect excels in cloud migration, optimizing infrastructure for peak performance and security, deploying tailored solutions."
 mainSections = ["post"]
 enableMediumZoom = true
 assetDir = "assets"
@@ -100,7 +100,7 @@ contentDir = "content/english"
 
 [Languages.pl]
 title = "Sławomir Jasiński"
-description = "Strona prywatna Sławomir Jasiński"
+description = "Ekspert w migracji do chmury, optymalizuje infrastrukturę dla wydajności i bezpieczeństwa. Specjalizuje się w innowacyjnych rozwiązaniach i procesach."
 contentDir = "content/polski"
 weight = 2
 LanguageName = "PL"

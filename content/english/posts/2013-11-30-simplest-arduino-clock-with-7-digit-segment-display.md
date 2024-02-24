@@ -5,6 +5,7 @@ type: post
 date: 2013-11-30T02:10:58+00:00
 url: /simplest-arduino-clock-with-7-digit-segment-display/
 thumbnail: /images/2013/11/IMG_0328.jpg
+description: Built a clock using Arduino UNO and DS1307 Real Time Clock, overcoming display challenges with multi-cable method. Share tips for future projects.
 categories:
   - Arduino
 
