@@ -1,11 +1,12 @@
 ---
-title: About
+title: About Slawomir Jasinski
 author: admin
 type: page
 date: 2011-12-07T10:13:48+00:00
 menu: main
 weight: 1
 disableComments: true
+description: Slawomir is a forward-thinking Solutions Architect specializing in seamless cloud migration with expertise across 3 continents. He optimizes systems for peak performance and security, and streamlines processes for enhanced delivery. With a rich background in software development and a commitment to excellence, Slawomir drives innovation and exceeds client expectations.
 ---
 ![logo](/images/2018/01/Coder-sm.png#right)SLAWOMIR (Slav) JASINSKI
 

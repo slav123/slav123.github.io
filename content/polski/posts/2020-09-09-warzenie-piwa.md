@@ -3,9 +3,8 @@ title: Warzenie piwa
 date: 2021-04-17
 author: slav
 type: post
-date: 2020-09-09T10:28:51+00:00
 url: /2020/warzenie-piwa
-thumbnail: /images/2020/09/dzbanek-piwa.jpg
+thumbnail: /images/2020/09/dzbanek-piwa.webp
 draft: true
 categories:
 - DIY
