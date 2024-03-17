@@ -15,6 +15,8 @@ Do you think consultants are useless? Think again! 🙌 My latest article is a F
 
 {{< youtube -c4CNB80SRc >}}
 
+<!--more-->
+
 ## Steve Jobs on Consultants? Hold My Latte
 All right, let's be honest. We all love Steve Jobs - the vision, the turtleneck, the whole deal. But when it came to consultants, the guy could be…well, a little harsh.
 He famously tossed shade, saying stuff like consultants don't own solutions, and their expertise is all theoretical book-smarts. Ouch!
