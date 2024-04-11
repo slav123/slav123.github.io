@@ -3,7 +3,7 @@ title: Shifting to a cloud-native architecture
 author: slav
 type: post
 date: 2024-04-04
-url: /2024/cloud-native -rchitecture
+url: /2024/cloud-native-rchitecture
 description: Discover how to transition to cloud-native architecture for improved scalability and innovation. Learn to avoid vendor lock-in with strategic choices in technology
 categories:
  - Blog
