@@ -33,9 +33,8 @@ The plethora of choices in cloud services can be overwhelming, from container de
 
 Opting for provider-specific solutions may tether you to their ecosystem, complicating future migrations. To dodge this, consider:
 
-- Leaning on open technologies and standards (think Docker and Kubernetes) 🌟.
-
-- Considering multi-cloud or hybrid strategies to benefit from diverse provider offerings ☁️.
+1. Leaning on open technologies and standards (think Docker and Kubernetes) 🌟.
+2. Considering multi-cloud or hybrid strategies to benefit from diverse provider offerings ☁️.
 
 ### Safe Solutions 🛡️
 
