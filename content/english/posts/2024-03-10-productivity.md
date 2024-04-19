@@ -11,8 +11,6 @@ categories:
 
 I've learned a lot about teamwork and productivity throughout my career. One key lesson that stands out is the danger of micromanagement. Let me share some observations from my experience:
 
-<!--more-->
-
 ## Micromanagement: The Silent Productivity Killer
 
 In any team, we all want to achieve our best. But sometimes, our well-intentioned desire to help can actually get in the way. Micromanagement – constantly overseeing and directing every detail of another person's work – can seriously drain productivity. Here's why:

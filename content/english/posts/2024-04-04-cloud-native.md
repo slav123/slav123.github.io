@@ -3,7 +3,7 @@ title: Shifting to a cloud-native architecture
 author: slav
 type: post
 date: 2024-04-04
-url: /2024/cloud-native-rchitecture
+url: /2024/cloud-native-architecture
 description: Discover how to transition to cloud-native architecture for improved scalability and innovation. Learn to avoid vendor lock-in with strategic choices in technology
 categories:
  - Blog
@@ -12,8 +12,6 @@ categories:
 Shifting to a cloud-native architecture 🌐 is not just a trend—it's a strategic move that can propel your applications to new heights in terms of flexibility, scalability, and performance. Today, we're diving deep into the when, why, and how of making this crucial transition, with an eye on navigating the choices between cloud-native and traditional setups 🚀.
 
 Let's also tackle a common concern: the risk of vendor lock-in, and explore "safe" strategies to mitigate this issue.
-
-<!--more-->
 
 ### When to Embrace Cloud-Native 🤔?
 

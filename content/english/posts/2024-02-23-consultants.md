@@ -8,14 +8,13 @@ thumbnail: /images/2024/02/avocados.webp
 description: Consultants Not Useless, Just Misunderstood! This lighthearted article challenges Steve Jobs' view on consultants – they're more than just fancy charts and diagrams.
 categories:
  - Blog
+ - Work
 
 ---
 
 Do you think consultants are useless? Think again! 🙌 My latest article is a Friday-perfect, lighthearted counterpoint to Steve Jobs' grumbles about consultants. Get ready to change your mind!
 
 {{< youtube -c4CNB80SRc >}}
-
-<!--more-->
 
 ## Steve Jobs on Consultants? Hold My Latte
 All right, let's be honest. We all love Steve Jobs - the vision, the turtleneck, the whole deal. But when it came to consultants, the guy could be…well, a little harsh.
