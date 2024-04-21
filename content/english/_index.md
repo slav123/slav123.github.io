@@ -1,5 +1,5 @@
 ---
-title: Slav – I solve problems
+title: about
 author: admin
 url: /mr-slav-i-solve-problems/
 thumbnail: /images/2018/11/maxresdefault.jpg

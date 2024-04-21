@@ -9,7 +9,7 @@ tag = "tags"
 
 [params]
 title = "Slawomir Jasinski"
-author = "Slav"
+author = "Slawomir Jasinski"
 copyright = "2011-2024"
 description = "Forward-thinking Solutions Architect excels in cloud migration, optimizing infrastructure for peak performance and security, deploying tailored solutions."
 mainSections = ["post"]
@@ -21,6 +21,12 @@ customCss = ["css/custom.css"]
 
 [permalinks]
 #categories = "/category/:slug/"
+
+[[Languages.en.menu.main]]
+url = "/"
+identifier = "Home"
+name   = "Home"
+weight = 1
 
 [[Languages.en.menu.main]]
 url = "/posts/"
@@ -52,8 +58,6 @@ url = "/pl/categories/praca/"
 identifier = "praca"
 name   = "Praca"
 weight = 30
-
-
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
