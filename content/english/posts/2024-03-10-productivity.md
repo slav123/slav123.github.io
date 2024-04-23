@@ -7,6 +7,9 @@ url: /2024/micromanagement
 description: Avoid productivity pitfalls! Learn how micromanagement hurts your team and discover tips to create a more empowering workplace.
 categories:
  - Blog
+series:
+ - business growth
+
 ---
 
 I've learned a lot about teamwork and productivity throughout my career. One key lesson that stands out is the danger of micromanagement. Let me share some observations from my experience:

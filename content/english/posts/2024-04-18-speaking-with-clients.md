@@ -7,6 +7,9 @@ url: /2024/speaking-to-clients
 description: Speaking to clients, knowing what to say, is not always easy. But it’s not always that simple. People learn how to talk to clients after working with serious ones.
 categories:
  - Blog
+series:
+ - business growth
+
 ---
 Speaking to clients, knowing what to say, is not always easy. But it’s not always that simple. People learn how to talk to clients after working with serious ones. It’s like learning to swim in the deep end–you might know the moves, but it feels different when the water’s over your head. We’ll share tips on what not to say in front of clients. It’s all about making sure they trust you to handle the big stuff, without getting bogged down in words that might worry them or make things seem more complicated than they are.
 
