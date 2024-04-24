@@ -19,4 +19,4 @@ jobs:
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           cname: www.jasinski.us # Or anything else
-          siteDir: /github/workspace/public
+          siteDir: ./public
