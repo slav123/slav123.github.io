@@ -17,6 +17,6 @@ jobs:
       - name: Publish Site
         uses: chabad360/hugo-gh-pages@master
         with:
-          githubToken: ${{ secrets.PERSONAL_TOKEN }}
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
           cname: www.jasinski.us # Or anything else
           siteDir: /github/workspace/public
