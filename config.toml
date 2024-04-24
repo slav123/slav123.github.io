@@ -46,7 +46,6 @@ identifier = "blog"
 name   = "Blog"
 weight = 25
 
-
 [[Languages.pl.menu.main]]
 url = "/pl/categories/praca/"
 identifier = "praca"
@@ -81,17 +80,16 @@ url = "https://www.instagram.com/slavomirj/"
 [[params.socialIcons]]
 icon = "fas fa-business-time"
 title = "business"
-url = "https://www.spidersoft.com.au"
+url = "https://www.yakconsulting.com"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:slav123@gmail.com"
 
-
 [Languages]
 [Languages.en]
-title = "My blog"
+title = "Slawomir Slav Jasinski"
 weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
