@@ -4,6 +4,7 @@ author: admin
 type: post
 date: 2015-01-15T10:05:00+00:00
 url: /ge-ecomagination-centre/
+description: GE Ecomagination Centre is the 840 square-metre space in Masdar City’s Incubator Building, showcases GE’s advanced technologies from cleaner solutions for power grids to upmarket appliances.
 categories:
   - Work
 
@@ -14,4 +15,4 @@ I was heavily involved with building and designing some cool elements of this ce
 
 {{< youtube "T0JSsNuRtzk" >}}
 
-![](/images/2021/05/OR_6143-scaled.jpg)
+![GE Ecomagination](/images/2021/05/OR_6143-scaled.jpg)

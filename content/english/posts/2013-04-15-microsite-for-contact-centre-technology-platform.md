@@ -20,7 +20,7 @@ Scope of work:
   3. Hosting
   4. EDM
 
-![](/images/2013/04/website-template.jpg)
-![](/images/2013/04/b1.jpg)
-![](/images/2013/04/b2.jpg)
-![](/images/2013/04/b3.jpg)
+![website-template](/images/2013/04/website-template.jpg)
+![b1](/images/2013/04/b1.jpg)
+![b2](/images/2013/04/b2.jpg)
+![b3](/images/2013/04/b3.jpg)

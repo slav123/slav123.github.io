@@ -25,16 +25,12 @@ I already was a proud owner of the whole set, which was:
 
 |7-Segment Display|DS1307 Real Time Clock|Real-Time-Clock-Module|
 |---|---|---|
-|  ![](/images/2013/11/7-Segment-LED-Display-4-Digits-Common-Anode-High-Light-Red-KHN40561-.jpg) | ![](/images/2013/11/Tiny-RTC-I2C-DS1307-Real-Time-Clock-Module-ARM-PIC-for-Arduino-1_10-more-1.jpg) | ![](/images/2013/11/Tiny-RTC-I2C-DS1307-Real-Time-Clock-Module-ARM-PIC-for-Arduino-1_10-more-3.jpg)
+|  ![7-Segment-LED-Display-4-Digits-Common-Anode-High-Light-Red](/images/2013/11/7-Segment-LED-Display-4-Digits-Common-Anode-High-Light-Red-KHN40561-.jpg) | ![Tiny-RTC-I2C-DS1307-Real-Time-Clock-Module-ARM-PIC-for-Arduino](/images/2013/11/Tiny-RTC-I2C-DS1307-Real-Time-Clock-Module-ARM-PIC-for-Arduino-1_10-more-1.jpg) | ![Real-Time-Clock-Module-ARM-PIC-for-Arduino](/images/2013/11/Tiny-RTC-I2C-DS1307-Real-Time-Clock-Module-ARM-PIC-for-Arduino-1_10-more-3.jpg)
 
 working magic
 
-![](/images/2013/11/IMG_0326.jpg)
+![arduino](/images/2013/11/IMG_0326.jpg)
 
-
-&nbsp;
-
-&nbsp;
 
 Let&#8217;s cook!
 
@@ -56,8 +52,6 @@ That was the hardest part of my whole build.&nbsp;Setting up SevSeg to work with
 `sevseg.Begin(0, 4, 3, 2, 1, 12, 11, 10, 9, 8, 7, 6, 5);`
 
 Mine was pretty simple. I had a version with common cathode &#8211; the first digit is 0, then &#8211; pins connecting t a cathode (digit handling) and then segments displays &#8211; in my case digital outputs in androino 6-12 (A to G) Number 5 points to dot digit.
-
-<!--more-->
 
 ```
 #include "SevSeg.h"

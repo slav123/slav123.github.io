@@ -24,11 +24,11 @@ If you are not afraid, just pull drivers from this website [www.5v.ru](http://w
 
 All you need to do is just to install them &#8211; reboot computer &#8211; the new device will appear on your device list:
 
-![](/images/2014/09/arduino-device.png)
+![arduino-devic](/images/2014/09/arduino-device.png)
 
 And obviously you can upload blink code to your new device:
 
-![](/images/2014/09/blink.png)
+![blink](/images/2014/09/blink.png)
 
  [1]: /images/2014/09/ch341ser_macv12.zip
  [2]: /images/2014/09/ch341ser_macv13.zip
