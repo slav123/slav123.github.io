@@ -9,7 +9,7 @@ categories:
   - Arduino
   
 ---
-Got a bunch of these little f*ckers and couldn&#8217;t make them to work with my Mojave fresh install. Previously they were working, and now they are gone.
+Got a bunch of these little f*ckers and couldn&#8217;t make them to work with my Mojave fresh installation. Previously they were working, and now they are gone.
 
 I wasn&#8217;t sure what exactly I&#8217;ve got. I just run [Serial Detect](https://www.mac-usb-serial.com/) to identify what model do I own:<figure class="wp-block-image">
 

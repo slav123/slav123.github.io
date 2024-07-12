@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2024-03-21
 url: /2024/cloud-native -rchitecture
-description:
+description: Explore the differences between GPT and Gemini AI models. Discover how Gemini excels in speed and conciseness, while ChatGPT-4 offers depth and adaptability. Learn about their strengths and limitations to make informed choices in AI technology.
 thumbnail: /images/2024/03/gpt-vs-gemini.jpeg
 categories:
  - Blog

@@ -4,6 +4,7 @@ author: admin
 type: post
 date: 2019-03-06T09:00:17+00:00
 url: /arduino-double-relay-keypad-lock/
+description: Learn how to build a DIY Arduino-powered keyless entry system for your garage door using a keypad and double relay. Perfect for those who often forget their remotes
 categories:
   - Arduino
 
