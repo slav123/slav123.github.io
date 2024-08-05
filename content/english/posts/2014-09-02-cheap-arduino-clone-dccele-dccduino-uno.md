@@ -5,7 +5,7 @@ type: post
 date: 2014-09-02T05:55:13+00:00
 url: /cheap-arduino-clone-dccele-dccduino-uno/
 thumbnail: /images/2014/09/cheap-arduino.jpg
-description: Learn how to troubleshoot Arduino UNO Clone not recognized by Mac OS. Discover proper drivers and installation process to get your new device working. Blink code tutorial included.
+description: Troubleshoot Arduino Uno clone on Mac OS with correct drivers & installation. Learn how to get it working + a simple blink code example.
 categories:
   - Arduino
 

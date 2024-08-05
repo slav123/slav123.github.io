@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2024-04-18
 url: /2024/speaking-to-clients
-description: Speaking to clients, knowing what to say, is not always easy. But it’s not always that simple. People learn how to talk to clients after working with serious ones.
+description: Speaking to clients can be tough. Experience teaches us the art of effective communication, but it's not always a straightforward skill.
 categories:
  - Blog
 series:
