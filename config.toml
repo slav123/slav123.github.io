@@ -8,7 +8,7 @@ category = "categories"
 tag = "tags"
 
 [params]
-title = "Slawomir Jasinski"
+title = "Blog Architekta"
 author = "Slawomir Jasinski"
 copyright = "2011-2024"
 description = "Forward-thinking Solutions Architect excels in cloud migration, optimizing infrastructure for peak performance and security, deploying tailored solutions."
@@ -18,6 +18,7 @@ assetDir = "assets"
 contentratio = 0.7
 profilePicture = "images/slav-sq-2.jpg"
 customCss = ["css/custom.css"]
+reversepagetitle = true
 
 [permalinks]
 #categories = "/category/:slug/"

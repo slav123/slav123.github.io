@@ -1,5 +1,5 @@
 ---
-title: Simplest Arduino Clock With 7-digit segment display
+title: Simple Arduino Clock with 7-Digit Segment Display
 author: admin
 type: post
 date: 2013-11-30T02:10:58+00:00

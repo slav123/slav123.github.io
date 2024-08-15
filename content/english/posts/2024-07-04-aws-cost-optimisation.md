@@ -1,5 +1,5 @@
 ---
-title: AWS Cost Optimization - A Solution Architect's Guide
+title: Maximize AWS Efficiency and Savings
 author: slav
 type: post
 date: 2024-07-05T09:30:01+00:00

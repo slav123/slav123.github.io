@@ -1,5 +1,5 @@
 ---
-title: How to create information kiosk using Chrome and touch screens
+title: Create Kiosk with Chrome & Touch Screens
 author: admin
 type: post
 date: 2014-09-07T11:26:43+00:00
