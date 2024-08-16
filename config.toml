@@ -16,7 +16,7 @@ mainSections = ["post"]
 enableMediumZoom = true
 assetDir = "assets"
 contentratio = 0.7
-profilePicture = "images/slav-sq-2.jpg"
+profilePicture = "images/_DSF1609.jpg"
 customCss = ["css/custom.css"]
 reversepagetitle = true
 

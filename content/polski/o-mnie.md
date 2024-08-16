@@ -10,7 +10,7 @@ weight: 1
 ![Sławomir Jasiński](/images/2018/01/Coder-sm.png#right)
 
 ## Zawodowo
-Jako Architekt Rozwiązań Chmurowych, specjalizuję się w przeprowadzaniu zaawansowanych migracji do chmury. Moje globalne doświadczenie, zdobyte na trzech kontynentach, umożliwia mi eksperckie kierowanie migracją infrastruktury klientów do środowiska chmurowego, przy jednoczesnej optymalizacji ich systemów dla maksymalnej wydajności i bezpieczeństwa. Moja rola w implementacji systemów rekomendacyjnych dla wiodących mediów europejskich rozwinęła moje umiejętności w kreowaniu innowacyjnych rozwiązań i efektywnym usprawnianiu procesów.
+Jako Architekt Rozwiązań, specjalizuję się w projektowaniu i wdrażaniu zaawansowanych rozwiązań opartych o sztuczną inteligencję (AI). Moje globalne doświadczenie, zdobyte na trzech kontynentach, umożliwia mi eksperckie kierowanie złożonymi projektami, w tym migracjami infrastruktury do chmury, optymalizacją systemów dla maksymalnej wydajności i bezpieczeństwa oraz wdrożeniami rozwiązań AI. Moje doświadczenie w implementacji systemów rekomendacyjnych dla wiodących mediów europejskich rozwinęło moje umiejętności w kreowaniu innowacyjnych rozwiązań i efektywnym usprawnianiu procesów. Posiadam głęboką wiedzę na temat najnowszych technologii AI i jestem w stanie tworzyć rozwiązania dopasowane do specyficznych potrzeb klientów.
 
 Mając bogate doświadczenie w tworzeniu oprogramowania, swobodnie nawiguję po różnorodnym krajobrazie technologii cyfrowych. Współpraca z kluczowymi australijskimi markami, takimi jak Commonwealth Bank i Telstra, oraz z europejskimi przedsiębiorstwami, w tym MAN Trucks i JYSK, wyposażyła mnie w umiejętność radzenia sobie z nietypowymi wyzwaniami i napędzania innowacji.
 
