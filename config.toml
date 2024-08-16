@@ -19,6 +19,8 @@ contentratio = 0.7
 profilePicture = "images/_DSF1609.jpg"
 customCss = ["css/custom.css"]
 reversepagetitle = true
+gtagId = "G-S3DZNELTH9"
+
 
 [permalinks]
 #categories = "/category/:slug/"
