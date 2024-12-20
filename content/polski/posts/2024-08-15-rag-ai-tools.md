@@ -3,7 +3,7 @@ title: Jak pokonać ograniczenia wiedzy modeli językowych? Dwa kluczowe podejś
 author: slav
 type: post
 date: 2024-08-15
-url: /2024/bazy-wektorowe-w-ai
+url: /2024/rag-ai-tools
 thumbnail: /images/2024/08/rag-vs-tools.jpg
 description: Rozwiąż problem statycznej wiedzy modeli językowych z pomocą narzędzi AI i RAG (Retrieval-Augmented Generation). Dowiedź się, jak te techniki mogą współpracować dla optymalnych rozwiązań AI.
 categories:

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Start on Sławomir Jasiński</title>
+    <link>//localhost:1313/pl/</link>
+    <description>Recent content in Start on Sławomir Jasiński</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architekt Rozwiązań Chmurowych</title>
+      <link>//localhost:1313/pl/o-mnie/</link>
+      <pubDate>Fri, 01 Oct 2021 07:13:48 +0000</pubDate>
+      
+      <guid>//localhost:1313/pl/o-mnie/</guid>
+      
+        <description>Zawodowo Jako Architekt Rozwiązań, specjalizuję się w projektowaniu i wdrażaniu zaawansowanych rozwiązań opartych o sztuczną inteligencję (AI). Moje globalne doświadczenie, zdobyte na trzech kontynentach, umożliwia mi eksperckie kierowanie złożonymi projektami, w tym migracjami infrastruktury do chmury, optymalizacją systemów dla maksymalnej wydajności i bezpieczeństwa oraz wdrożeniami rozwiązań AI. Moje doświadczenie w implementacji systemów rekomendacyjnych dla wiodących mediów europejskich rozwinęło moje umiejętności w kreowaniu innowacyjnych rozwiązań i efektywnym usprawnianiu procesów. Posiadam głęboką wiedzę na temat najnowszych technologii AI i jestem w stanie tworzyć rozwiązania dopasowane do specyficznych potrzeb klientów.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bazy wektorowe w AI - rewolucja czy hype?</title>
+      <link>//localhost:1313/2024/bazy-wektorowe-w-ai/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2024/bazy-wektorowe-w-ai/</guid>
+      
+        <description>Odkryj, jak bazy wektorowe zmieniają świat sztucznej inteligencji. Dowiedz się, czym są one tak potężne i kiedy warto je stosować w swoich projektach AI.</description>
+      
+    </item>
+    
+    <item>
+      <title>Jak pokonać ograniczenia wiedzy modeli językowych? Dwa kluczowe podejścia AI</title>
+      <link>//localhost:1313/2024/bazy-wektorowe-w-ai/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2024/bazy-wektorowe-w-ai/</guid>
+      
+        <description>Rozwiąż problem statycznej wiedzy modeli językowych z pomocą narzędzi AI i RAG (Retrieval-Augmented Generation). Dowiedź się, jak te techniki mogą współpracować dla optymalnych rozwiązań AI.</description>
+      
+    </item>
+    
+    <item>
+      <title>20 lat w technologii</title>
+      <link>//localhost:1313/2024/urodziny/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2024/urodziny/</guid>
+      
+        <description>Świętuję ponad 20 niesamowitych lat w ciągle zmieniającym się świecie technologii! Była to absolutna kolejka górska!</description>
+      
+    </item>
+    
+    <item>
+      <title>Jak ML zmienia decyzje biznesowe</title>
+      <link>//localhost:1313/2024/decyzje-biznesowe-ml/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2024/decyzje-biznesowe-ml/</guid>
+      
+        <description>Dowiedz się, jak wykorzystać moc ML do przekształcania danych w strategie biznesowe. Przewidywaj trendy, wykrywaj anomalie i podejmuj lepsze decyzje!</description>
+      
+    </item>
+    
+    <item>
+      <title>Odkrywanie potencjału NLP</title>
+      <link>//localhost:1313/2024/potencjal-nlp-llm/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2024/potencjal-nlp-llm/</guid>
+      
+        <description>Odkryj pełny potencjał NLP! Dowiedz się, jak ta technologia może przekształcić Twoją działalność i wspierać firmę w osiągnięciu lepszych wyników.</description>
+      
+    </item>
+    
+    <item>
+      <title>Zaproszenie do świata AI. Rewolucja w biznesie?</title>
+      <link>//localhost:1313/2024/jak-sztuczna-inteligencja-rewolucjonizuje-biznes/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2024/jak-sztuczna-inteligencja-rewolucjonizuje-biznes/</guid>
+      
+        <description>Zamieniaj przyszłość swojego biznesu z pomocą AI! Dowiedz się o możliwościach uczenia maszynowego, NLP i najnowszych trendach w transformacji branż.</description>
+      
+    </item>
+    
+    <item>
+      <title>Prawda developera</title>
+      <link>//localhost:1313/2023/prawda-developera/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2023/prawda-developera/</guid>
+      
+        <description>komentarz developera
+Zamknąłem ticket, z opisem &amp;ldquo;nie znaleźliśmy przyczyny&amp;rdquo; co będzie prawdą bo nie szukaliśmy&amp;hellip;</description>
+      
+    </item>
+    
+    <item>
+      <title>Rozmowa na temat AI i ML dla Onetu</title>
+      <link>//localhost:1313/onet-talk/</link>
+      <pubDate>Thu, 13 Apr 2023 12:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/onet-talk/</guid>
+      
+        <description>Opowiadam o tym, jak Ringier Axel Springer Polska i Onet wprowadzają innowację z wykorzystaniem #AI #MachineLearning - np. w kategorii równouprawnienia treści.</description>
+      
+    </item>
+    
+    <item>
+      <title>AWS Certified Solutions Architect - Associate</title>
+      <link>//localhost:1313/aws-certified-solutions-architect/</link>
+      <pubDate>Fri, 24 Mar 2023 13:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/aws-certified-solutions-architect/</guid>
+      
+        <description>Po ponad 10 latach pracy z AWS zrobiłem pierwszy certyfikat jako Architekt Rozwiązań.
+23T0L60C6NE41F3G ( https://aws.amazon.com/verification )</description>
+      
+    </item>
+    
+  </channel>
+</rss>

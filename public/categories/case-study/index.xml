@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case Study on Slawomir Slav Jasinski</title>
+    <link>//localhost:1313/categories/case-study/</link>
+    <description>Recent content in Case Study on Slawomir Slav Jasinski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Sep 2014 11:26:43 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/case-study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Kiosk with Chrome &amp; Touch Screens</title>
+      <link>//localhost:1313/how-to-create-information-kiosk-using-chrome-and-touch-screens/</link>
+      <pubDate>Sun, 07 Sep 2014 11:26:43 +0000</pubDate>
+      
+      <guid>//localhost:1313/how-to-create-information-kiosk-using-chrome-and-touch-screens/</guid>
+      
+        <description>&lt;p&gt;While ago I was working in company called Imagination. I’ve done some very cool projects while I was working there, and this is history off one of them.&lt;/p&gt;
+&lt;h3 id=&#34;challenge&#34;&gt;Challenge&lt;/h3&gt;
+&lt;p&gt;We were ask to create interactive solution to show case history of the oil company, for exhibition. Something really simple and inexpensive. We made information “kiosks” where people could browse history of the company.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

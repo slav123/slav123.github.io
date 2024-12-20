@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Work on My blog</title>
+    <link>//localhost:1313/categories/blog-work/</link>
+    <description>Recent content in Blog Work on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/blog-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing Security During Client Visits - Best Practices</title>
+      <link>//localhost:1313/2024/security/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2024/security/</guid>
+      
+        <description>Discover essential security tips for client visits, from always logging out to using MFA, based on real experiences and amusing anecdotes.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

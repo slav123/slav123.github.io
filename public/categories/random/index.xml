@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random on Slawomir Slav Jasinski</title>
+    <link>//localhost:1313/categories/random/</link>
+    <description>Recent content in Random on Slawomir Slav Jasinski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Sep 2017 05:55:01 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/random/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FLIR ONE for iOS review</title>
+      <link>//localhost:1313/flir-one-for-ios-review/</link>
+      <pubDate>Mon, 04 Sep 2017 05:55:01 +0000</pubDate>
+      
+      <guid>//localhost:1313/flir-one-for-ios-review/</guid>
+      
+        <description>While ago I purchased Flir One for iOS. Flier is Thermal Imaging Camera Attachment - basically it extends your iPhone with Thermal vision.</description>
+      
+    </item>
+    
+    <item>
+      <title>Disable keyboard vibrate on Android 6</title>
+      <link>//localhost:1313/disable-keyboard-vibrate-on-android-6/</link>
+      <pubDate>Tue, 19 Jan 2016 01:28:51 +0000</pubDate>
+      
+      <guid>//localhost:1313/disable-keyboard-vibrate-on-android-6/</guid>
+      
+        <description>Quick guide on how to disable keyboard vibrate on Android 6.</description>
+      
+    </item>
+    
+    <item>
+      <title>ATM fail</title>
+      <link>//localhost:1313/atm-fail/</link>
+      <pubDate>Thu, 19 Jun 2014 06:12:23 +0000</pubDate>
+      
+      <guid>//localhost:1313/atm-fail/</guid>
+      
+        <description>It happens 😉</description>
+      
+    </item>
+    
+    <item>
+      <title>Rhinos</title>
+      <link>//localhost:1313/rhinos/</link>
+      <pubDate>Mon, 19 May 2014 06:14:13 +0000</pubDate>
+      
+      <guid>//localhost:1313/rhinos/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Workspace</title>
+      <link>//localhost:1313/workspace/</link>
+      <pubDate>Wed, 19 Feb 2014 06:20:09 +0000</pubDate>
+      
+      <guid>//localhost:1313/workspace/</guid>
+      
+        <description>Just sharing my current view from the office.</description>
+      
+    </item>
+    
+    <item>
+      <title>Facebook alternative</title>
+      <link>//localhost:1313/facebook-alternative/</link>
+      <pubDate>Mon, 23 Jul 2012 11:24:15 +0000</pubDate>
+      
+      <guid>//localhost:1313/facebook-alternative/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Office view</title>
+      <link>//localhost:1313/office-view/</link>
+      <pubDate>Thu, 22 Sep 2011 11:22:50 +0000</pubDate>
+      
+      <guid>//localhost:1313/office-view/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
