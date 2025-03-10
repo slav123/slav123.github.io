@@ -21,6 +21,11 @@ customCss = ["css/custom.css"]
 reversepagetitle = true
 gtagId = "G-S3DZNELTH9"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
 [permalinks]
 #categories = "/category/:slug/"
@@ -104,4 +109,4 @@ contentDir = "content/polski"
 weight = 2
 LanguageName = "PL"
 
-ignoreLogs = ['err-youtube-remote']
+ignoreLogs = ['err-youtube-remote', 'warning-goldmark-raw-html']
