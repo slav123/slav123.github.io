@@ -2,10 +2,10 @@
 title: Patriotyzm danych - czy lokalizacja serwerów i pochodzenie usługodawców ma znaczenie?
 author: admin
 type: post
-date: 2025-04-15T13:00:00+00:00
+date: 2025-04-15T12:00:00+00:00
 url: /patriotyzm-danych/
 description: Rozważania na temat znaczenia lokalizacji danych i pochodzenia dostawców usług w kontekście stabilności i niezależności technologicznej. Czy powinniśmy bardziej świadomie wybierać dostawców usług IT?
-thumbnail: /images/2025/datadata-patriotism.webp
+thumbnail: /images/2025/data-patriotism.webp
 categories:
 - Blog
 ---
