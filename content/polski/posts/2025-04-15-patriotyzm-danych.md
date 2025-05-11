@@ -62,4 +62,4 @@ Europejskie firmy często oferują rozwiązania lepiej dostosowane do naszych lo
 
 ## A co Ty o tym myślisz?
 
-Jestem ciekaw Waszego zdania na ten temat. Dlatego przygotowałem krótką ankietę, która pomoże nam zobaczyć, jak wygląda ta kwestia w szerszej perspektywie.
+Jestem ciekaw Waszego zdania na ten temat.
