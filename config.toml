@@ -8,9 +8,9 @@ category = "categories"
 tag = "tags"
 
 [params]
-title = "Blog Architekta"
+title = "Blog"
 author = "Slawomir Jasinski"
-copyright = "2011-2024"
+copyright = "2011-2025"
 description = "Forward-thinking Solutions Architect excels in cloud migration, optimizing infrastructure for peak performance and security, deploying tailored solutions."
 mainSections = ["post"]
 enableMediumZoom = true
