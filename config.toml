@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://jasinski.us/'
 languageCode = 'en-us'
 title = 'Slawomir Jasinski landing page'
 theme = "anatole"
@@ -105,8 +105,8 @@ contentDir = "content/english"
 [Languages.pl]
 title = "Sławomir Jasiński"
 description = "Ekspert w migracji do chmury, optymalizuje infrastrukturę dla wydajności i bezpieczeństwa. Specjalizuje się w innowacyjnych rozwiązaniach i procesach."
-contentDir = "content/polski"
 weight = 2
 LanguageName = "PL"
+contentDir = "content/polski"
 
 ignoreLogs = ['err-youtube-remote', 'warning-goldmark-raw-html']
