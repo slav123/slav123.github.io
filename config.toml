@@ -1,4 +1,4 @@
-baseURL = 'https://jasinski.us/'
+baseURL = 'https://www.jasinski.us/'
 languageCode = 'en-us'
 title = 'Slawomir Jasinski landing page'
 theme = "anatole"
