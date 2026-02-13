@@ -2,7 +2,7 @@
 title: "Przestań budować strony logowania: Jak działa zewnętrzna autoryzacja"
 author: slav
 type: post
-date: 2026-02-13T16:42:07+02:00
+date: 2026-02-13T10:42:07+02:00
 url: /2026/zewnetrzna-autoryzacja/
 description: "Zewnętrzna autoryzacja stawia niezależny serwis przed Twoją aplikacją. Obsługuje logowanie, MFA i sesje. Twoja aplikacja tylko odczytuje nagłówki HTTP."
 thumbnail: /images/2026/external-authorization.webp
