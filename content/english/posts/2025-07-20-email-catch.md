@@ -10,13 +10,8 @@ categories:
 - Blog
 - Go
 - DevOps
-
-draft: false
 translationKey: "email-catch-2025"
 ---
-
-# Email Catch: From Weekend Project to Amazon SES Alternative
-
 As a developer who enjoys weekend experiments, I decided to tackle a problem that probably affects many of us - how to simply receive and process emails without having to use complicated cloud solutions.
 
 ## Project Genesis
