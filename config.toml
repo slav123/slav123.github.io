@@ -57,7 +57,7 @@ weight = 25
 [[Languages.pl.menu.main]]
 url = "/pl/categories/praca/"
 identifier = "praca"
-name   = "Praca"
+name   = "Projekty"
 weight = 30
 
 [[params.socialIcons]]

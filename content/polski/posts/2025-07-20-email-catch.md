@@ -8,8 +8,7 @@ description: "Wysokowydajny serwis SMTP napisany w Go jako alternatywa dla Amazo
 thumbnail: /images/2025/Google_AI_Studio_2025-07-20T15_07_42.166Z.webp
 categories:
 - Blog
-- Go
-- DevOps
+- Praca
 
 draft: false
 translationKey: "email-catch-2025"

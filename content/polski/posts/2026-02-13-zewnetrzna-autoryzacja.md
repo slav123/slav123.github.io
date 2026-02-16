@@ -8,9 +8,9 @@ description: "Zewnętrzna autoryzacja stawia niezależny serwis przed Twoją apl
 thumbnail: /images/2026/external-authorization.webp
 categories:
 - Blog
-- Go
-- DevOps
-- Security
+- Praca
+series:
+- Autoryzacja
 ---
 
 Masz aplikację webową. Potrzebujesz uwierzytelniania. Intuicja podpowiada zbudowanie systemu logowania — sesje, hashowanie haseł, MFA, cały stos. Na szczęście jest opcja, która usuwa to wszystko z Twojej aplikacji.

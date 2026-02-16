@@ -8,6 +8,7 @@ description: Odkryj, jak bazy wektorowe zmieniają świat sztucznej inteligencji
 thumbnail: /images/2024/08/vector_databases.jpg
 categories:
  - Blog
+ - Praca
 series:
   - AI
 ---
