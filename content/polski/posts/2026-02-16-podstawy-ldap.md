@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2026-02-16T09:42:07+02:00
 url: /2026/podstawy-ldap/
-description: "Koniec z zarządzaniem wieloma bazami użytkowników. Dowiedz się, jak użyć lldap do centralizacji uwierzytelniania w Nextcloud, Gitea i Grafanie — prosty przewodnik po LDAP."
+description: "Koniec z zarządzaniem wieloma bazami użytkowników. Dowiedz się, jak użyć lldap do centralizacji uwierzytelniania w Nextcloud, Gitea i Grafanie - prosty przewodnik po LDAP."
 thumbnail: /images/2026/ldap-practical-guide.webp
 categories:
 - Blog
@@ -14,11 +14,11 @@ series:
 ---
 ## Problem
 
-Masz kilka self-hostowanych usług — Nextcloud, Gitea, Grafana, może więcej. Każda z nich ma własną listę użytkowników i haseł. Dochodzi nowa osoba? Zakładasz pięć kont. Ktoś odchodzi? Masz nadzieję, że pamiętasz, gdzie miał dostęp.
+Masz kilka self-hostowanych usług - Nextcloud, Gitea, Grafana, może więcej. Każda z nich ma własną listę użytkowników i haseł. Dochodzi nowa osoba? Zakładasz pięć kont. Ktoś odchodzi? Masz nadzieję, że pamiętasz, gdzie miał dostęp.
 
 LDAP to katalog, który trzyma wszystkich użytkowników i grupy w jednym miejscu. Usługi pytają go „czy ta osoba istnieje?" i „czy ma tu wstęp?" zamiast utrzymywać własne listy użytkowników.
 
-**lldap** to lekki serwer LDAP stworzony dokładnie do tego celu. Bez korporacyjnej złożoności — tylko użytkownicy, grupy i przejrzysty interfejs webowy.
+**lldap** to lekki serwer LDAP stworzony dokładnie do tego celu. Bez korporacyjnej złożoności - tylko użytkownicy, grupy i przejrzysty interfejs webowy.
 
 ---
 
@@ -36,7 +36,7 @@ home.lab         →  dc=home,dc=lab
 yak.consulting   →  dc=yak,dc=consulting
 ```
 
-To się nazywa **Base DN** — korzeń drzewa katalogowego.
+To się nazywa **Base DN** - korzeń drzewa katalogowego.
 
 ### Wszystko jest ścieżką
 
@@ -83,7 +83,7 @@ lldap tworzy tę strukturę automatycznie. Wystarczy ustawić Base DN i zacząć
 
 ## Grupy kontrolują dostęp
 
-To kluczowa koncepcja. Nie dajesz użytkownikowi bezpośredniego dostępu do usługi — dodajesz go do **grupy**, a usługa sprawdza przynależność do grupy.
+To kluczowa koncepcja. Nie dajesz użytkownikowi bezpośredniego dostępu do usługi - dodajesz go do **grupy**, a usługa sprawdza przynależność do grupy.
 
 Chcesz, żeby ktoś miał dostęp do Nextcloud? Dodaj go do `nextcloud_users`.
 Chcesz odebrać dostęp? Usuń z grupy.
@@ -95,11 +95,11 @@ Chcesz wdrożyć kogoś do wszystkiego? Dodaj do odpowiednich grup w jednym miej
 
 Kiedy podłączasz usługę do lldap, potrzebuje ona kilku rzeczy:
 
-- **Gdzie jest LDAP?** — adres serwera i port
-- **Jaki jest korzeń?** — Twój Base DN
-- **Jak się zalogować, żeby szukać?** — konto serwisowe (tzw. Bind DN), które może wyszukiwać użytkowników
-- **Jak znaleźć użytkowników?** — filtr wyszukiwania, np. „znajdź użytkownika pasującego do tej nazwy"
-- **Kto ma wstęp?** — filtr grupowy, np. „wpuść tylko członków tej grupy"
+- **Gdzie jest LDAP?** - adres serwera i port
+- **Jaki jest korzeń?** - Twój Base DN
+- **Jak się zalogować, żeby szukać?** - konto serwisowe (tzw. Bind DN), które może wyszukiwać użytkowników
+- **Jak znaleźć użytkowników?** - filtr wyszukiwania, np. „znajdź użytkownika pasującego do tej nazwy"
+- **Kto ma wstęp?** - filtr grupowy, np. „wpuść tylko członków tej grupy"
 
 Usługa nigdy nie widzi haseł. Po prostu prosi lldap o ich weryfikację.
 

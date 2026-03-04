@@ -1,4 +1,4 @@
----
+----
 title: quote of the month
 author: admin
 type: post

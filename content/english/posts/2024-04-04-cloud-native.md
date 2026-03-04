@@ -13,7 +13,7 @@ series:
 
 ---
 
-Shifting to a cloud-native architecture 🌐 is not just a trend—it's a strategic move that can propel your applications to new heights in terms of flexibility, scalability, and performance. Today, we're diving deep into the when, why, and how of making this crucial transition, with an eye on navigating the choices between cloud-native and traditional setups 🚀.
+Shifting to a cloud-native architecture 🌐 is not just a trend-it's a strategic move that can propel your applications to new heights in terms of flexibility, scalability, and performance. Today, we're diving deep into the when, why, and how of making this crucial transition, with an eye on navigating the choices between cloud-native and traditional setups 🚀.
 
 Let's also tackle a common concern: the risk of vendor lock-in, and explore "safe" strategies to mitigate this issue.
 

@@ -1,4 +1,4 @@
----
+----
 title: Quote - Get out of life what you deserve
 author: admin
 type: post
