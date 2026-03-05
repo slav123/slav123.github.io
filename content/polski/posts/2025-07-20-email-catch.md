@@ -10,7 +10,6 @@ categories:
 - Blog
 - Praca
 
-draft: false
 translationKey: "email-catch-2025"
 ---
 Jako programista, który lubi eksperymentować w weekendy, postanowiłem zmagać się z problemem, który prawdopodobnie dotyka wielu z nas - jak w prosty sposób odbierać i przetwarzać emaile bez konieczności używania skomplikowanych rozwiązań chmurowych.
