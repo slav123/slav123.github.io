@@ -1,0 +1,50 @@
+<!doctype html>
+<html
+  dir="{{ .Site.Language.LanguageDirection | default "ltr" }}"
+  lang="{{- site.Language.Lang -}}"
+  data-theme="{{- .Site.Params.displayMode -}}"
+  {{ if eq .Site.Params.displayMode "dark" }}
+    class="html theme--dark"
+  {{ else }}
+    class="html theme--light"
+  {{ end }}
+>
+  {{- partial "head.html" . -}}
+  <body class="body">
+    <div class="wrapper">
+      <aside
+        {{ if (and (or (eq .Site.Params.hidesidebar true) (eq .Params.hidesidebar true)) (not .IsHome)) }}
+          class="wrapper__sidebar wrapper__sidebar--hidden"
+        {{ else }}
+          class="wrapper__sidebar"
+        {{ end }}
+      >
+        {{- partial "sidebar.html" . -}}
+      </aside>
+      <main
+        {{ if (and (or (eq .Site.Params.hidesidebar true) (eq .Params.hidesidebar true)) (not .IsHome)) }}
+          class="wrapper__main wrapper__main--fullscreen"
+        {{ else }}
+          class="wrapper__main"
+        {{ end }}
+      >
+        <header class="header">{{ partial "navbar.html" . }}</header>
+        {{- block "main" . }}{{- end }}
+      </main>
+    </div>
+
+    {{- partial "footer.html" (dict "context" . "footerClassModifier" "base") -}}
+
+    {{- if (eq .Site.Params.simpleAnalytics.enable true) -}}
+      {{- partial "analytics/simpleanalytics.html" . -}}
+    {{- end -}}
+    <script type="text/javascript">
+      (function(window, document, dataLayerName, id) {
+        window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+        var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName);var qPString=qP.length>0?("?"+qP.join("&")):"";
+        tags.async=!0,tags.src="https://spidersoft.containers.piwik.pro/3d5437a4-eaaa-43b0-b4b8-79607add4fde.js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+        !function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+      })(window, document, 'dataLayer', '3d5437a4-eaaa-43b0-b4b8-79607add4fde');
+    </script>
+  </body>
+</html>
