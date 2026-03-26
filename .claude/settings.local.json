@@ -4,7 +4,18 @@
       "Bash(git submodule status)",
       "Bash(git fetch)",
       "Bash(git fetch --tags)",
-      "Bash(hugo)"
+      "Bash(hugo)",
+      "Bash(git fetch origin)",
+      "Bash(git pull --rebase origin main)",
+      "Bash(git add themes/anatole layouts/shortcodes/embed.html content/polski/posts/2021-04-03-plywajace-biurko.md content/polski/posts/2021-04-17-deska-do-krojenia.md)",
+      "Bash(git -C /Users/slav/Sites/jasinski.us/themes/anatole status --short)",
+      "Bash(git -C /Users/slav/Sites/jasinski.us/themes/anatole checkout -- layouts/_default/baseof.html)",
+      "Bash(git add themes/anatole layouts/ content/polski/posts/2021-04-03-plywajace-biurko.md content/polski/posts/2021-04-17-deska-do-krojenia.md)",
+      "Bash(git -C /Users/slav/Sites/jasinski.us add layouts/_default/baseof.html)",
+      "Bash(git -C /Users/slav/Sites/jasinski.us status --short)",
+      "Bash(git -C /Users/slav/Sites/jasinski.us/themes/anatole status)",
+      "Bash(git -C /Users/slav/Sites/jasinski.us/themes/anatole checkout -- resources/)",
+      "Bash(git -C:*)"
     ]
   }
 }
