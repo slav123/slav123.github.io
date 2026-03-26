@@ -2,125 +2,153 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/pl/o-mnie/</loc>
+    <loc>https://www.jasinski.us/pl/o-mnie/</loc>
     <lastmod>2021-10-01T07:13:48+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/2024/bazy-wektorowe-w-ai/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/pl/categories/blog/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <loc>https://www.jasinski.us/pl/categories/blog/</loc>
+    <lastmod>2025-07-20T16:42:07+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/blog/"
+                href="https://www.jasinski.us/categories/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="//localhost:1313/pl/categories/blog/"
+                href="https://www.jasinski.us/pl/categories/blog/"
                 />
   </url><url>
-    <loc>//localhost:1313/pl/categories/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <loc>https://www.jasinski.us/pl/categories/</loc>
+    <lastmod>2025-07-20T16:42:07+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="https://www.jasinski.us/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="//localhost:1313/pl/categories/"
+                href="https://www.jasinski.us/pl/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/pl/posts/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <loc>https://www.jasinski.us/pl/categories/devops/</loc>
+    <lastmod>2025-07-20T16:42:07+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/posts/"
+                href="https://www.jasinski.us/categories/devops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="//localhost:1313/pl/posts/"
+                href="https://www.jasinski.us/pl/categories/devops/"
                 />
   </url><url>
-    <loc>//localhost:1313/pl/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <loc>https://www.jasinski.us/2025/email-catch/</loc>
+    <lastmod>2025-07-20T16:42:07+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="https://www.jasinski.us/2025/email-catch-en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="//localhost:1313/pl/"
+                href="https://www.jasinski.us/2025/email-catch/"
                 />
   </url><url>
-    <loc>//localhost:1313/2024/bazy-wektorowe-w-ai/</loc>
+    <loc>https://www.jasinski.us/pl/categories/go/</loc>
+    <lastmod>2025-07-20T16:42:07+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jasinski.us/categories/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.jasinski.us/pl/categories/go/"
+                />
+  </url><url>
+    <loc>https://www.jasinski.us/pl/</loc>
+    <lastmod>2025-07-20T16:42:07+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jasinski.us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.jasinski.us/pl/"
+                />
+  </url><url>
+    <loc>https://www.jasinski.us/patriotyzm-danych/</loc>
+    <lastmod>2025-04-15T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jasinski.us/nocode/</loc>
+    <lastmod>2025-03-10T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jasinski.us/2024/bazy-wektorowe-w-ai/</loc>
+    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jasinski.us/2024/rag-ai-tools/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/2024/urodziny/</loc>
+    <loc>https://www.jasinski.us/2024/urodziny/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pl/tags/ai/</loc>
+    <loc>https://www.jasinski.us/2024/decyzje-biznesowe-ml/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/2024/decyzje-biznesowe-ml/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/pl/tags/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="//localhost:1313/pl/tags/"
-                />
-  </url><url>
-    <loc>//localhost:1313/2024/potencjal-nlp-llm/</loc>
+    <loc>https://www.jasinski.us/2024/potencjal-nlp-llm/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/2024/jak-sztuczna-inteligencja-rewolucjonizuje-biznes/</loc>
+    <loc>https://www.jasinski.us/2024/jak-sztuczna-inteligencja-rewolucjonizuje-biznes/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/2023/prawda-developera/</loc>
+    <loc>https://www.jasinski.us/2023/prawda-developera/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pl/categories/praca/</loc>
+    <loc>https://www.jasinski.us/pl/categories/praca/</loc>
     <lastmod>2023-04-13T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/onet-talk/</loc>
+    <loc>https://www.jasinski.us/onet-talk/</loc>
     <lastmod>2023-04-13T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/onet-talk/"
+                href="https://www.jasinski.us/onet-talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="//localhost:1313/onet-talk/"
+                href="https://www.jasinski.us/onet-talk/"
                 />
   </url><url>
-    <loc>//localhost:1313/aws-certified-solutions-architect/</loc>
+    <loc>https://www.jasinski.us/aws-certified-solutions-architect/</loc>
     <lastmod>2023-03-24T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/aws-certified-solutions-architect/"
+                href="https://www.jasinski.us/aws-certified-solutions-architect/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="//localhost:1313/aws-certified-solutions-architect/"
+                href="https://www.jasinski.us/aws-certified-solutions-architect/"
+                />
+  </url><url>
+    <loc>https://www.jasinski.us/pl/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jasinski.us/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://www.jasinski.us/pl/tags/"
                 />
   </url>
 </urlset>

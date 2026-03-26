@@ -1,6 +1,5 @@
 ---
 title: Deska do krojenia
-date: 2021-04-17
 author: slav
 type: post
 date: 2021-04-17T01:28:51+00:00

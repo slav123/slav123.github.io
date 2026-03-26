@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random on Slawomir Slav Jasinski</title>
-    <link>//localhost:1313/categories/random/</link>
+    <link>https://www.jasinski.us/categories/random/</link>
     <description>Recent content in Random on Slawomir Slav Jasinski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Sep 2017 05:55:01 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/random/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2017 05:55:01 +0000</lastBuildDate><atom:link href="https://www.jasinski.us/categories/random/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FLIR ONE for iOS review</title>
-      <link>//localhost:1313/flir-one-for-ios-review/</link>
+      <link>https://www.jasinski.us/flir-one-for-ios-review/</link>
       <pubDate>Mon, 04 Sep 2017 05:55:01 +0000</pubDate>
       
-      <guid>//localhost:1313/flir-one-for-ios-review/</guid>
+      <guid>https://www.jasinski.us/flir-one-for-ios-review/</guid>
       
         <description>While ago I purchased Flir One for iOS. Flier is Thermal Imaging Camera Attachment - basically it extends your iPhone with Thermal vision.</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Disable keyboard vibrate on Android 6</title>
-      <link>//localhost:1313/disable-keyboard-vibrate-on-android-6/</link>
+      <link>https://www.jasinski.us/disable-keyboard-vibrate-on-android-6/</link>
       <pubDate>Tue, 19 Jan 2016 01:28:51 +0000</pubDate>
       
-      <guid>//localhost:1313/disable-keyboard-vibrate-on-android-6/</guid>
+      <guid>https://www.jasinski.us/disable-keyboard-vibrate-on-android-6/</guid>
       
         <description>Quick guide on how to disable keyboard vibrate on Android 6.</description>
       
@@ -31,21 +31,22 @@
     
     <item>
       <title>ATM fail</title>
-      <link>//localhost:1313/atm-fail/</link>
+      <link>https://www.jasinski.us/atm-fail/</link>
       <pubDate>Thu, 19 Jun 2014 06:12:23 +0000</pubDate>
       
-      <guid>//localhost:1313/atm-fail/</guid>
+      <guid>https://www.jasinski.us/atm-fail/</guid>
       
-        <description>It happens 😉</description>
+        <description>&lt;p&gt;It happens 😉&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jasinski.us/images/2015/06/cba-atm-fail.webp&#34; alt=&#34;CBA ATM FAIL~~~~&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Rhinos</title>
-      <link>//localhost:1313/rhinos/</link>
+      <link>https://www.jasinski.us/rhinos/</link>
       <pubDate>Mon, 19 May 2014 06:14:13 +0000</pubDate>
       
-      <guid>//localhost:1313/rhinos/</guid>
+      <guid>https://www.jasinski.us/rhinos/</guid>
       
         <description></description>
       
@@ -53,34 +54,35 @@
     
     <item>
       <title>Workspace</title>
-      <link>//localhost:1313/workspace/</link>
+      <link>https://www.jasinski.us/workspace/</link>
       <pubDate>Wed, 19 Feb 2014 06:20:09 +0000</pubDate>
       
-      <guid>//localhost:1313/workspace/</guid>
+      <guid>https://www.jasinski.us/workspace/</guid>
       
-        <description>Just sharing my current view from the office.</description>
+        <description>&lt;p&gt;Just sharing my current view from the office.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jasinski.us/images/2015/06/2014-02-07-09.17.21.webp&#34; alt=&#34;workspace view&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Facebook alternative</title>
-      <link>//localhost:1313/facebook-alternative/</link>
+      <link>https://www.jasinski.us/facebook-alternative/</link>
       <pubDate>Mon, 23 Jul 2012 11:24:15 +0000</pubDate>
       
-      <guid>//localhost:1313/facebook-alternative/</guid>
+      <guid>https://www.jasinski.us/facebook-alternative/</guid>
       
-        <description></description>
+        <description>&lt;p&gt;&lt;img src=&#34;https://www.jasinski.us/images/2016/09/slavsbook.jpg&#34; alt=&#34;Better Facebook&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Office view</title>
-      <link>//localhost:1313/office-view/</link>
+      <link>https://www.jasinski.us/office-view/</link>
       <pubDate>Thu, 22 Sep 2011 11:22:50 +0000</pubDate>
       
-      <guid>//localhost:1313/office-view/</guid>
+      <guid>https://www.jasinski.us/office-view/</guid>
       
-        <description></description>
+        <description>&lt;p&gt;&lt;img src=&#34;https://www.jasinski.us/images/2016/09/photo.jpg&#34; alt=&#34;Nice Office view&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     

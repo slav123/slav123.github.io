@@ -1,8 +1,11 @@
 {{ $url := (.Get 0) }}
 {{- range $.Site.Data.embed }}
 {{- if le 1 ( findRE .pattern $url | len ) }}
-{{- with (getJSON .endpoint "?" (querify "format" "json" "url" $url)) }}
+{{- $apiURL := printf "%s?format=json&url=%s" .endpoint ($url | urlize) }}
+{{- with resources.GetRemote $apiURL }}
+{{- with .Content | unmarshal }}
 {{ .html | safeHTML }}
+{{ end }}
 {{ end }}
 {{ end }}
 {{ end }}

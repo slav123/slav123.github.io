@@ -6,36 +6,25 @@
   
     class="html theme--light"
   
-><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8" />
-  <title>
+><head>
+  <meta charset="utf-8" /><title>
     
       
-        Jak pokonać ograniczenia wiedzy modeli językowych? Dwa kluczowe podejścia AI |
+        Bazy wektorowe w AI - rewolucja czy hype? |
       Slawomir Jasinski
 
   </title>
 
-  <meta name="generator" content="Hugo 0.131.0"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="generator" content="Hugo 0.157.0"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <meta name="author" content="Slawomir Jasinski" />
   <meta
     name="description"
-    content="Rozwiąż problem statycznej wiedzy modeli językowych z pomocą narzędzi AI i RAG (Retrieval-Augmented Generation). Dowiedź się, jak te techniki mogą współpracować dla optymalnych rozwiązań AI."
+    content="Odkryj, jak bazy wektorowe zmieniają świat sztucznej inteligencji. Dowiedz się, czym są one tak potężne i kiedy warto je stosować w swoich projektach AI."
   />
   
   
-    
-    
-    <link
-      rel="stylesheet"
-      href="/scss/main.min.1cac29897bb941adf4246700acb99deffbfdf35a02ffc4ae81484456ebe430c3.css"
-      integrity="sha256-HKwpiXu5Qa30JGcArLmd7/v981oC/8SugUhEVuvkMMM="
-      crossorigin="anonymous"
-      type="text/css"
-    />
-  
-
-  
+        <link rel="stylesheet" href="/css/anatole.min.49bfd2dbac6030a3a24fe7cb768d3d0dd9d223458e88f7d6cf5fe7aa806aaa2d.css" integrity="sha256-Sb/S26xgMKOiT&#43;fLdo09DdnSI0WOiPfWz1/nqoBqqi0=" crossorigin="anonymous" />
+      
   <link
     rel="stylesheet"
     href="/css/markupHighlight.min.73ccfdf28df555e11009c13c20ced067af3cb021504cba43644c705930428b00.css"
@@ -92,8 +81,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 
-  <link rel="canonical" href="//localhost:1313/2024/bazy-wektorowe-w-ai/" />
-
+  <link rel="canonical" href="https://www.jasinski.us/2024/bazy-wektorowe-w-ai/" />
   
   
   
@@ -110,10 +98,12 @@
     
     <script
       type="text/javascript"
-      src="/js/anatole-theme-switcher.min.d6d329d93844b162e8bed1e915619625ca91687952177552b9b3e211014a2957.js"
-      integrity="sha256-1tMp2ThEsWLovtHpFWGWJcqRaHlSF3VSubPiEQFKKVc="
+      src="/js/anatole-theme-switcher.min.8724ddf9268dee451060f191961647573c7f592fbccc6d858746236b3f915813.js"
+      integrity="sha256-hyTd&#43;SaN7kUQYPGRlhZHVzx/WS&#43;8zG2Fh0Yjaz&#43;RWBM="
       crossorigin="anonymous"
     ></script>
+  
+
   
 
   
@@ -124,26 +114,24 @@
   
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Jak pokonać ograniczenia wiedzy modeli językowych? Dwa kluczowe podejścia AI">
-  <meta name="twitter:description" content="Rozwiąż problem statycznej wiedzy modeli językowych z pomocą narzędzi AI i RAG (Retrieval-Augmented Generation). Dowiedź się, jak te techniki mogą współpracować dla optymalnych rozwiązań AI.">
+  <meta name="twitter:title" content="Bazy wektorowe w AI - rewolucja czy hype?">
+  <meta name="twitter:description" content="Odkryj, jak bazy wektorowe zmieniają świat sztucznej inteligencji. Dowiedz się, czym są one tak potężne i kiedy warto je stosować w swoich projektach AI.">
 
 
 
   
-  <meta property="og:url" content="//localhost:1313/2024/bazy-wektorowe-w-ai/">
+  <meta property="og:url" content="https://www.jasinski.us/2024/bazy-wektorowe-w-ai/">
   <meta property="og:site_name" content="Sławomir Jasiński">
-  <meta property="og:title" content="Jak pokonać ograniczenia wiedzy modeli językowych? Dwa kluczowe podejścia AI">
-  <meta property="og:description" content="Rozwiąż problem statycznej wiedzy modeli językowych z pomocą narzędzi AI i RAG (Retrieval-Augmented Generation). Dowiedź się, jak te techniki mogą współpracować dla optymalnych rozwiązań AI.">
+  <meta property="og:title" content="Bazy wektorowe w AI - rewolucja czy hype?">
+  <meta property="og:description" content="Odkryj, jak bazy wektorowe zmieniają świat sztucznej inteligencji. Dowiedz się, czym są one tak potężne i kiedy warto je stosować w swoich projektach AI.">
   <meta property="og:locale" content="pl">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2024-08-15T00:00:00+00:00">
-    <meta property="article:modified_time" content="2024-08-15T00:00:00+00:00">
+    <meta property="article:published_time" content="2024-08-16T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-08-16T00:00:00+00:00">
 
 
 
-  
-  
   
   
   <script type="application/ld+json">
@@ -151,19 +139,24 @@
         "@context": "http://schema.org",
         "@type": "BlogPosting",
         "articleSection": "posts",
-        "name": "Jak pokonać ograniczenia wiedzy modeli językowych? Dwa kluczowe podejścia AI",
-        "headline": "Jak pokonać ograniczenia wiedzy modeli językowych? Dwa kluczowe podejścia AI",
+        "name": "Bazy wektorowe w AI - rewolucja czy hype?",
+        "headline": "Bazy wektorowe w AI - rewolucja czy hype?",
         "alternativeHeadline": "",
         "description": "
-      Rozwiąż problem statycznej wiedzy modeli językowych z pomocą narzędzi AI i RAG (Retrieval-Augmented Generation). Dowiedź się, jak te techniki mogą współpracować dla optymalnych rozwiązań AI.
+      Odkryj, jak bazy wektorowe zmieniają świat sztucznej inteligencji. Dowiedz się, czym są one tak potężne i kiedy warto je stosować w swoich projektach AI.
 
 
     ",
+        "license": "",
+        
+          
+          "copyrightYear": "2011",
+        
         "inLanguage": "pl",
         "isFamilyFriendly": "true",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "\/\/localhost:1313\/2024\/bazy-wektorowe-w-ai\/"
+            "@id": "https:\/\/www.jasinski.us\/2024\/bazy-wektorowe-w-ai\/"
         },
         "author" : {
             "@type": "Person",
@@ -181,17 +174,16 @@
             "@type": "Person",
             "name": "slav"
         },
-        "copyrightYear" : "2024",
-        "dateCreated": "2024-08-15T00:00:00.00Z",
-        "datePublished": "2024-08-15T00:00:00.00Z",
-        "dateModified": "2024-08-15T00:00:00.00Z",
+        "dateCreated": "2024-08-16T00:00:00.00Z",
+        "datePublished": "2024-08-16T00:00:00.00Z",
+        "dateModified": "2024-08-16T00:00:00.00Z",
         "publisher":{
             "@type":"Organization",
             "name": "slav",
-            "url": "//localhost:1313/",
+            "url": "https://www.jasinski.us/",
             "logo": {
                 "@type": "ImageObject",
-                "url": "\/\/localhost:1313\/favicon-32x32.png",
+                "url": "https:\/\/www.jasinski.us\/favicon-32x32.png",
                 "width":"32",
                 "height":"32"
             }
@@ -201,8 +193,8 @@
       ]
 
     ,
-        "url" : "\/\/localhost:1313\/2024\/bazy-wektorowe-w-ai\/",
-        "wordCount" : "518",
+        "url" : "https:\/\/www.jasinski.us\/2024\/bazy-wektorowe-w-ai\/",
+        "wordCount" : "393",
         "genre" : [ 
       
       "Blog"
@@ -213,6 +205,11 @@
   </script>
 
 
+
+
+  
+  
+  
 </head>
 <body class="body">
     <div class="wrapper">
@@ -220,21 +217,21 @@
         
           class="wrapper__sidebar"
         
-      ><div
-  class="sidebar
-    animated fadeInDown
-  "
->
-  <div class="sidebar__content">
+      ><div class="sidebar">
+  <div
+    class="sidebar__content 
+      animated fadeInDown
+    "
+  >
     <div class="sidebar__introduction">
       <img
         class="sidebar__introduction-profileimage"
-        src="/images/_DSF1609.jpg"
+        src="/images/DSF1609.jpg"
         alt="profile picture"
       />
       
         <div class="sidebar__introduction-title">
-          <a href="//localhost:1313/">Blog Architekta</a>
+          <a href="/pl">Blog</a>
         </div>
       
       <div class="sidebar__introduction-description">
@@ -329,11 +326,15 @@
       
     </ul>
   </div><footer class="footer footer__sidebar">
-  <ul class="footer__list">
+  <ul
+    class="footer__list 
+      animated fadeInDown
+    "
+  >
     <li class="footer__item">
       &copy;
       
-        2011-2024
+        2011-2025
       
     </li>
     
@@ -342,10 +343,20 @@
   
   <script
     type="text/javascript"
-    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
-    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    src="/js/medium-zoom.min.9531b4a2217a70c5a1fce89c1f81c9ebbdd586708fcd4130b417320c7230c8d6.js"
+    integrity="sha256-lTG0oiF6cMWh/OicH4HJ673VhnCPzUEwtBcyDHIwyNY="
     crossorigin="anonymous"
-  ></script></div>
+  ></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S3DZNELTH9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'G-S3DZNELTH9');
+</script>
+</div>
 </aside>
       <main
         
@@ -434,12 +445,12 @@
   >
     
       <div class="post__thumbnail-wrapper">
-        <img class="post__thumbnail" src="/images/2024/08/rag-vs-tools.jpg" alt="Thumbnail image" />
+        <img class="post__thumbnail" src="/images/2024/08/vector_databases.jpg" alt="Thumbnail image" />
       </div>
     
     <div class="post__content">
       
-        <h1>Jak Pokonać Ograniczenia Wiedzy Modeli Językowych? Dwa Kluczowe Podejścia AI</h1>
+        <h1>Bazy Wektorowe W AI - Rewolucja Czy Hype?</h1>
       
       
         <ul class="post__meta">
@@ -448,7 +459,7 @@
             <span class="post__meta-text"
               >
                 
-                  Thu, Aug 15, 2024
+                  Fri, Aug 16, 2024
                 
 
               
@@ -456,65 +467,52 @@
           </li>
           <li class="post__meta-item">
             <em class="fas fa-stopwatch post__meta-icon"></em>
-            <span class="post__meta-text">3-minute read</span>
+            <span class="post__meta-text">2-minute read</span>
           </li>
         </ul>
-      <h1 id="jak-pokonać-ograniczenia-wiedzy-modeli-językowych-dwie-kluczowe-strategie">Jak pokonać ograniczenia wiedzy modeli językowych? Dwie kluczowe strategie</h1>
-<p>Duże modele językowe (LLM) zrewolucjonizowały świat sztucznej inteligencji, oferując niezwykłe możliwości generowania tekstu i rozwiązywania problemów. Jednak mimo swojej potęgi, LLM mają istotne ograniczenie: ich wiedza jest statyczna i ograniczona do danych, na których zostały wytrenowane.</p>
-<p>Co to oznacza w praktyce? LLM mogą nie znać najnowszych wydarzeń, specyficznych informacji o Twojej firmie czy branży, lub mogą mieć nieaktualne dane. To ograniczenie może być kluczowe, gdy potrzebujemy AI, które rozumie nasz konkretny kontekst i najświeższe informacje.</p>
-<p>Na szczęście, istnieją dwa główne podejścia, które pozwalają nam pokonać te ograniczenia i &ldquo;douczyć&rdquo; nasze modele:</p>
+      <h1 id="bazy-wektorowe-w-ai-hype-czy-rewolucja">Bazy wektorowe w AI: Hype czy rewolucja?</h1>
+<p>Słyszałeś ostatnio o bazach wektorowych? Jeśli interesujesz się AI, pewnie tak. Ale czym właściwie są i dlaczego nagle wszyscy o nich mówią? Czas rozwikłać tę tajemnicę!</p>
+<h2 id="co-to-są-bazy-wektorowe">Co to są bazy wektorowe?</h2>
+<p>W skrócie: to bazy danych, które przechowują dane jako wektory. Co to właściwie znaczy?</p>
+<p>Wyobraź sobie, że każde słowo, zdanie czy nawet cały dokument można zamienić w długą listę liczb. Te liczby reprezentują &ldquo;znaczenie&rdquo; tekstu w wielowymiarowej przestrzeni. I voilà - masz wektor!</p>
+<h2 id="czym-różnią-się-od-zwykłych-baz-danych">Czym różnią się od &ldquo;zwykłych&rdquo; baz danych?</h2>
 <ol>
-<li>
-<p>Narzędzia AI (AI Tools): To metoda, która pozwala LLM na dostęp do zewnętrznych źródeł danych i funkcji w czasie rzeczywistym. Dzięki temu model może wykonywać aktualne obliczenia, sprawdzać bieżące informacje czy nawet interagować z innymi systemami.</p>
-</li>
-<li>
-<p>Generowanie Wspomagane Wyszukiwaniem (RAG - Retrieval-Augmented Generation): Ta technika polega na wzbogacaniu odpowiedzi modelu o informacje z wcześniej przygotowanej, specjalistycznej bazy wiedzy. Pozwala to na dostarczenie modelowi konkretnych, często niszowych informacji, których może brakować w jego ogólnym treningu.</p>
-</li>
+<li>Przechowywanie: Tradycyjne bazy danych przechowują tekst, liczby, daty. Bazy wektorowe? Długie listy liczb.</li>
+<li>Wyszukiwanie: W zwykłej bazie szukasz dokładnych dopasowań. W wektorowej? Najbliższych &ldquo;sąsiadów&rdquo; w tej wielowymiarowej przestrzeni.</li>
+<li>Szybkość: Bazy wektorowe są zoptymalizowane do błyskawicznego znajdowania podobieństw.</li>
 </ol>
-<p>Każde z tych podejść ma swoje unikalne zalety i zastosowania. Przyjrzyjmy się bliżej, jak działają, kiedy najlepiej je stosować i jak mogą współpracować, aby stworzyć naprawdę potężne i spersonalizowane rozwiązania AI.</p>
-<h2 id="narzędzia-ai-szwajcarski-scyzoryk-twojego-ai">Narzędzia AI: Szwajcarski Scyzoryk Twojego AI</h2>
-<p>Narzędzia AI są jak danie Twojemu AI zestawu supermocy. Oto co sprawia, że są tak wspaniałe:</p>
+<h2 id="dlaczego-są-tak-popularne-w-ai">Dlaczego są tak popularne w AI?</h2>
 <ol>
-<li>Wszechstronne działania: Narzędzia mogą wykonywać takie czynności jak wysyłanie e-maili, dokonywanie obliczeń czy pobieranie danych w czasie rzeczywistym.</li>
-<li>Najświeższe informacje: Mogą korzystać z źródeł danych na żywo, aby uzyskać najnowsze informacje.</li>
-<li>Specjalistyczne umiejętności: Każde narzędzie jest jak ekspert w konkretnym zadaniu.</li>
+<li>Semantyczne wyszukiwanie: Rozumieją &ldquo;znaczenie&rdquo;, nie tylko słowa kluczowe.</li>
+<li>Wydajność: Szybko znajdują podobne elementy w ogromnych zbiorach danych.</li>
+<li>Integracja z LLM: Świetnie współpracują z dużymi modelami językowymi.</li>
 </ol>
-<p>Pomyśl o narzędziach AI jak o zestawie aplikacji na Twoim smartfonie – każda robi coś wyjątkowego!</p>
-<h2 id="rag-osobista-biblioteka-twojego-ai">RAG: Osobista Biblioteka Twojego AI</h2>
-<p>RAG, z drugiej strony, jest jak danie Twojemu AI własnej, spersonalizowanej biblioteki. Oto dlaczego jest to fajne:</p>
+<h2 id="czy-to-nie-jest-po-prostu-gloryfikowane-wyszukiwanie">Czy to nie jest po prostu &ldquo;gloryfikowane wyszukiwanie&rdquo;?</h2>
+<p>Cóż, trochę tak! W pewnym sensie bazy wektorowe to rzeczywiście bardzo zaawansowane narzędzie do wyszukiwania. Ale to właśnie ta &ldquo;gloryfikacja&rdquo; czyni je tak potężnymi w świecie AI.</p>
+<h2 id="kiedy-ich-naprawdę-potrzebujesz">Kiedy ich naprawdę potrzebujesz?</h2>
 <ol>
-<li>Spersonalizowana wiedza: RAG wyciąga informacje z wyselekcjonowanej bazy wiedzy przed udzieleniem odpowiedzi.</li>
-<li>Głębokie zrozumienie: Pomaga AI radzić sobie z konkretnymi tematami z większą głębią.</li>
-<li>Kontekstualna inteligencja: RAG pomaga AI zrozumieć tło Twoich pytań.</li>
+<li>Ogromne zbiory danych: Miliony dokumentów do przeszukania? Baza wektorowa to twój przyjaciel.</li>
+<li>Semantyczne zapytania: Chcesz znaleźć &ldquo;podobne&rdquo; treści, nie tylko identyczne? To jest to.</li>
+<li>Integracja z LLM: Budujesz systemy AI, które muszą szybko kojarzyć fakty? Bingo!</li>
 </ol>
-<p>Wyobraź sobie RAG jako bibliotekarza, który szybko sięga po wszystkie odpowiednie książki, zanim odpowie na Twoje pytanie.</p>
-<h2 id="dlaczego-potrzebujemy-obu">Dlaczego Potrzebujemy Obu</h2>
-<p>Połączenie narzędzi AI i RAG jest jak danie Twojemu AI zarówno sprytu ulicznego, jak i książkowej mądrości:</p>
+<h2 id="a-kiedy-możesz-się-bez-nich-obejść">A kiedy możesz się bez nich obejść?</h2>
 <ol>
-<li>Robić + Wiedzieć: Narzędzia pomagają AI robić rzeczy, podczas gdy RAG pomaga mu wiedzieć rzeczy.</li>
-<li>Czas rzeczywisty + Pogłębiona wiedza: Narzędzia dostarczają dane na żywo, RAG przynosi głębokie informacje kontekstowe.</li>
-<li>Elastyczność + Skupienie: Narzędzia dostosowują się do nowych zadań, RAG zagłębia się w konkretne dziedziny.</li>
+<li>Małe zbiory danych: Kilkaset dokumentów? Tradycyjna baza pewnie wystarczy.</li>
+<li>Proste wyszukiwania: Szukasz tylko dokładnych dopasowań? Zostań przy klasyce.</li>
+<li>Ograniczone zasoby: Bazy wektorowe potrafią być &ldquo;żarłoczne&rdquo; - nie zawsze są warte inwestycji.</li>
 </ol>
-<h2 id="kiedy-używać-czego">Kiedy Używać Czego</h2>
-<ul>
-<li>
-<p>Używaj narzędzi AI, gdy potrzebujesz:</p>
-<ul>
-<li>Wykonywać działania (jak wysyłanie wiadomości czy przeprowadzanie obliczeń)</li>
-<li>Uzyskać dane w czasie rzeczywistym (jak aktualna pogoda czy ceny akcji)</li>
-<li>Obsłużyć różnorodne konkretne zadania</li>
-</ul>
-</li>
-<li>
-<p>Używaj RAG, gdy chcesz:</p>
-<ul>
-<li>Wzbogacić wiedzę AI na konkretne tematy</li>
-<li>Dostarczać szczegółowe, niuansowe odpowiedzi w określonych dziedzinach</li>
-<li>Zapewnić AI dostęp do wyselekcjonowanych, wiarygodnych informacji</li>
-</ul>
-</li>
-</ul>
-<p>Wykorzystując zarówno narzędzia AI, jak i RAG, tworzymy spersonalizowane rozwiązania AI, które są nie tylko inteligentne, ale także zdolne i kompetentne. To jak połączenie uzdolnionego majsterkowicza z mądrym profesorem – otrzymujesz to, co najlepsze z obu światów, dokładnie dostosowane do potrzeb użytkowników!</p>
+<h2 id="jak-łączyć-bazy-wektorowe-z-llm">Jak łączyć bazy wektorowe z LLM?</h2>
+<p>To jest dopiero magia! Wyobraź sobie:</p>
+<ol>
+<li>Wrzucasz pytanie do LLM.</li>
+<li>LLM przekształca je w wektor.</li>
+<li>Baza wektorowa błyskawicznie znajduje podobne wektory (a więc i podobne treści).</li>
+<li>LLM dostaje te treści i używa ich do sformułowania odpowiedzi.</li>
+</ol>
+<p>Efekt? AI, które potrafi korzystać z ogromnych ilości danych, pozostając przy tym szybkie i trafne w odpowiedziach.</p>
+<h2 id="podsumowując">Podsumowując</h2>
+<p>Bazy wektorowe to potężne narzędzie w świecie AI, ale nie są magicznym rozwiązaniem wszystkich problemów. Jak ze wszystkim w technologii - kluczem jest wiedzieć, kiedy je stosować, a kiedy lepiej trzymać się sprawdzonych rozwiązań.</p>
+<p>Pamiętaj: najlepsza technologia to ta, która najlepiej rozwiązuje Twój konkretny problem. Czasem będzie to zaawansowana baza wektorowa, a czasem zwykły Excel. I wiesz co? Oba podejścia są w porządku!</p>
 
 
 
@@ -523,7 +521,7 @@
   
     <li><a href="/2024/bazy-wektorowe-w-ai/">Bazy Wektorowe W AI - Rewolucja Czy Hype?</a></li>
   
-    <li><a href="/2024/bazy-wektorowe-w-ai/">Jak Pokonać Ograniczenia Wiedzy Modeli Językowych? Dwa Kluczowe Podejścia AI</a></li>
+    <li><a href="/2024/rag-ai-tools/">Jak Pokonać Ograniczenia Wiedzy Modeli Językowych? Dwa Kluczowe Podejścia AI</a></li>
   
     <li><a href="/2024/decyzje-biznesowe-ml/">Jak ML Zmienia Decyzje Biznesowe</a></li>
   
@@ -548,11 +546,15 @@
 
       </main>
     </div><footer class="footer footer__base">
-  <ul class="footer__list">
+  <ul
+    class="footer__list 
+      animated fadeInDown
+    "
+  >
     <li class="footer__item">
       &copy;
       
-        2011-2024
+        2011-2025
       
     </li>
     
@@ -561,8 +563,26 @@
   
   <script
     type="text/javascript"
-    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
-    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    src="/js/medium-zoom.min.9531b4a2217a70c5a1fce89c1f81c9ebbdd586708fcd4130b417320c7230c8d6.js"
+    integrity="sha256-lTG0oiF6cMWh/OicH4HJ673VhnCPzUEwtBcyDHIwyNY="
     crossorigin="anonymous"
-  ></script></body>
+  ></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S3DZNELTH9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'G-S3DZNELTH9');
+</script>
+<script type="text/javascript">
+      (function(window, document, dataLayerName, id) {
+        window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+        var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName);var qPString=qP.length>0?("?"+qP.join("&")):"";
+        tags.async=!0,tags.src="https://spidersoft.containers.piwik.pro/3d5437a4-eaaa-43b0-b4b8-79607add4fde.js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+        !function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+      })(window, document, 'dataLayer', '3d5437a4-eaaa-43b0-b4b8-79607add4fde');
+    </script>
+  </body>
 </html>

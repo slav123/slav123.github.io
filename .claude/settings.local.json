@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git submodule status)",
+      "Bash(git fetch)",
+      "Bash(git fetch --tags)",
+      "Bash(hugo)"
+    ]
+  }
+}

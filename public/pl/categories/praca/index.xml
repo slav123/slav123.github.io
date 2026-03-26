@@ -2,31 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Praca on Sławomir Jasiński</title>
-    <link>//localhost:1313/pl/categories/praca/</link>
+    <link>https://www.jasinski.us/pl/categories/praca/</link>
     <description>Recent content in Praca on Sławomir Jasiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 13 Apr 2023 12:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pl/categories/praca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Apr 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://www.jasinski.us/pl/categories/praca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rozmowa na temat AI i ML dla Onetu</title>
-      <link>//localhost:1313/onet-talk/</link>
+      <link>https://www.jasinski.us/onet-talk/</link>
       <pubDate>Thu, 13 Apr 2023 12:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/onet-talk/</guid>
+      <guid>https://www.jasinski.us/onet-talk/</guid>
       
-        <description>Opowiadam o tym, jak Ringier Axel Springer Polska i Onet wprowadzają innowację z wykorzystaniem #AI #MachineLearning - np. w kategorii równouprawnienia treści.</description>
+        <description>&lt;p&gt;Opowiadam o tym, jak  
+ 
+ 
+     
+ 
+ &lt;a href=&#34;https://www.linkedin.com/company/ringier-axel-springer-polska/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BOOgTtALdS4edIpVFur07gg%3D%3D&#34;&gt;Ringier Axel Springer Polska&lt;/a&gt;
+  i  
+ 
+ 
+     
+ 
+ &lt;a href=&#34;https://www.linkedin.com/company/onet-pl/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BOOgTtALdS4edIpVFur07gg%3D%3D&#34;&gt;Onet&lt;/a&gt;
+  wprowadzają innowację z wykorzystaniem #AI #MachineLearning - np. w kategorii równouprawnienia treści.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vYHCNZsFNRc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
       
     </item>
     
     <item>
       <title>AWS Certified Solutions Architect - Associate</title>
-      <link>//localhost:1313/aws-certified-solutions-architect/</link>
+      <link>https://www.jasinski.us/aws-certified-solutions-architect/</link>
       <pubDate>Fri, 24 Mar 2023 13:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/aws-certified-solutions-architect/</guid>
+      <guid>https://www.jasinski.us/aws-certified-solutions-architect/</guid>
       
-        <description>Po ponad 10 latach pracy z AWS zrobiłem pierwszy certyfikat jako Architekt Rozwiązań.
-23T0L60C6NE41F3G ( https://aws.amazon.com/verification )</description>
+        <description>&lt;p&gt;Po ponad 10 latach pracy z AWS zrobiłem pierwszy certyfikat jako Architekt Rozwiązań.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jasinski.us/images/2023/03/saa.png&#34; alt=&#34;AWS Certified Solutions Architect - Associate&#34; title=&#34;AWS Certified Solutions Architect - Associate&#34;&gt;
+23T0L60C6NE41F3G
+( 
+ 
+ 
+     
+ 
+ &lt;a href=&#34;https://aws.amazon.com/verification&#34;&gt;https://aws.amazon.com/verification&lt;/a&gt;
+ )&lt;/p&gt;</description>
       
     </item>
     

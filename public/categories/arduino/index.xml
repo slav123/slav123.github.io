@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arduino on Slawomir Slav Jasinski</title>
-    <link>//localhost:1313/categories/arduino/</link>
+    <link>https://www.jasinski.us/categories/arduino/</link>
     <description>Recent content in Arduino on Slawomir Slav Jasinski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Jan 2021 15:39:30 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jan 2021 15:39:30 +0000</lastBuildDate><atom:link href="https://www.jasinski.us/categories/arduino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NodeMcu (ESP8266) water level monitor with a voltage sensor</title>
-      <link>//localhost:1313/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor/</link>
+      <link>https://www.jasinski.us/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor/</link>
       <pubDate>Fri, 08 Jan 2021 15:39:30 +0000</pubDate>
       
-      <guid>//localhost:1313/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor/</guid>
+      <guid>https://www.jasinski.us/nodemcu-esp8266-water-level-monitor-with-a-voltage-sensor/</guid>
       
         <description>&lt;p&gt;This subject in the theory looks very easy. Just get  
  
@@ -26,10 +26,10 @@
     
     <item>
       <title>Arduino double relay keypad lock</title>
-      <link>//localhost:1313/arduino-double-relay-keypad-lock/</link>
+      <link>https://www.jasinski.us/arduino-double-relay-keypad-lock/</link>
       <pubDate>Wed, 06 Mar 2019 09:00:17 +0000</pubDate>
       
-      <guid>//localhost:1313/arduino-double-relay-keypad-lock/</guid>
+      <guid>https://www.jasinski.us/arduino-double-relay-keypad-lock/</guid>
       
         <description>Learn how to build a DIY Arduino-powered keyless entry system for your garage door using a keypad and double relay. Perfect for those who often forget their remotes</description>
       
@@ -37,36 +37,63 @@
     
     <item>
       <title>USB to TTL / Serial MacOS Mojave</title>
-      <link>//localhost:1313/usb-to-ttl-serial-macos-mojave/</link>
+      <link>https://www.jasinski.us/usb-to-ttl-serial-macos-mojave/</link>
       <pubDate>Tue, 22 Jan 2019 14:44:50 +0000</pubDate>
       
-      <guid>//localhost:1313/usb-to-ttl-serial-macos-mojave/</guid>
+      <guid>https://www.jasinski.us/usb-to-ttl-serial-macos-mojave/</guid>
       
-        <description>Got a bunch of these little f*ckers and couldn’t make them to work with my Mojave fresh installation. Previously they were working, and now they are gone.
-I wasn’t sure what exactly I’ve got. I just run Serial Detect to identify what model do I own:
-Then I googled driver for MacOS Mojave. Because original website: CP210x USB to UART Bridge VCP Drivers likes to file, I made a mirror on my server.</description>
+        <description>&lt;p&gt;Got a bunch of these little f*ckers and couldn’t make them to work with my Mojave fresh installation. Previously they were working, and now they are gone.&lt;/p&gt;
+&lt;p&gt;I wasn’t sure what exactly I’ve got. I just run  
+ 
+ 
+     
+ 
+ &lt;a href=&#34;https://www.mac-usb-serial.com/&#34;&gt;Serial Detect&lt;/a&gt;
+  to identify what model do I own:&lt;figure class=&#34;wp-block-image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jasinski.us/images/2019/01/Screenshot-2019-01-22-15.32.27.png&#34; alt=&#34;mac usb serial&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Then I googled driver for MacOS Mojave. Because original website:  
+ 
+ 
+     
+ 
+ &lt;a href=&#34;https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers&#34;&gt;CP210x USB to UART Bridge VCP Drivers&lt;/a&gt;
+  likes to file, I made a mirror on my server. So you can pull drivers directly  
+ 
+ 
+ &lt;a href=&#34;https://www.jasinski.us/images/2019/01/Mac_OSX_VCP_Driver.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;from here&lt;/a&gt;
+ .&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Talk: from light bulb to Arduino</title>
-      <link>//localhost:1313/talk-from-light-bulb-to-arduino/</link>
+      <link>https://www.jasinski.us/talk-from-light-bulb-to-arduino/</link>
       <pubDate>Wed, 19 Nov 2014 06:08:15 +0000</pubDate>
       
-      <guid>//localhost:1313/talk-from-light-bulb-to-arduino/</guid>
+      <guid>https://www.jasinski.us/talk-from-light-bulb-to-arduino/</guid>
       
-        <description>I had opportunity to give a talk small talk about my work with Arduino on Commerce Factory – Nov 2014.
-Slides are available here:
-www.slideshare.net You can check video here</description>
+        <description>&lt;p&gt;I had opportunity to give a talk small talk about my work with Arduino on Commerce Factory – Nov 2014.&lt;/p&gt;
+&lt;p&gt;Slides are available here:&lt;/p&gt;
+&lt;p&gt; 
+ 
+ 
+     
+ 
+ &lt;a href=&#34;https://www.slideshare.net/secret/CGWCqWIMz5aj43%3e&#34;&gt;www.slideshare.net&lt;/a&gt;
+ &lt;/p&gt;
+&lt;p&gt;You can check video here&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yZ-O5MZ_AAE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
       
     </item>
     
     <item>
       <title>USB to Serial for Mac OS X</title>
-      <link>//localhost:1313/usb-to-serial-for-mac-os-x/</link>
+      <link>https://www.jasinski.us/usb-to-serial-for-mac-os-x/</link>
       <pubDate>Thu, 16 Oct 2014 03:30:14 +0000</pubDate>
       
-      <guid>//localhost:1313/usb-to-serial-for-mac-os-x/</guid>
+      <guid>https://www.jasinski.us/usb-to-serial-for-mac-os-x/</guid>
       
         <description>&lt;p&gt;In this quick tutorial will show how to “talk” quickly to Serial port on Mac OS X.&lt;/p&gt;
 &lt;p&gt;Mac OS X will automatically create a serial device, which can be found in /dev.&lt;/p&gt;
@@ -76,10 +103,10 @@ www.slideshare.net You can check video here</description>
     
     <item>
       <title>Cheap Arduino clone DccEle – DCcduino Uno</title>
-      <link>//localhost:1313/cheap-arduino-clone-dccele-dccduino-uno/</link>
+      <link>https://www.jasinski.us/cheap-arduino-clone-dccele-dccduino-uno/</link>
       <pubDate>Tue, 02 Sep 2014 05:55:13 +0000</pubDate>
       
-      <guid>//localhost:1313/cheap-arduino-clone-dccele-dccduino-uno/</guid>
+      <guid>https://www.jasinski.us/cheap-arduino-clone-dccele-dccduino-uno/</guid>
       
         <description>Troubleshoot Arduino Uno clone on Mac OS with correct drivers &amp; installation. Learn how to get it working &#43; a simple blink code example.</description>
       
@@ -87,15 +114,15 @@ www.slideshare.net You can check video here</description>
     
     <item>
       <title>Arduino Clock TimeZones and something more</title>
-      <link>//localhost:1313/arduino-clock-timezones-and-something-more/</link>
+      <link>https://www.jasinski.us/arduino-clock-timezones-and-something-more/</link>
       <pubDate>Wed, 04 Dec 2013 00:15:42 +0000</pubDate>
       
-      <guid>//localhost:1313/arduino-clock-timezones-and-something-more/</guid>
+      <guid>https://www.jasinski.us/arduino-clock-timezones-and-something-more/</guid>
       
         <description>&lt;p&gt;Following with my last project –  
  
  
- &lt;a href=&#34;//localhost:1313/simplest-arduino-clock-with-7-digit-segment-display/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arduino clock&lt;/a&gt;
+ &lt;a href=&#34;https://www.jasinski.us/simplest-arduino-clock-with-7-digit-segment-display/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arduino clock&lt;/a&gt;
   – i wanted to extend it with 2 features:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Handling daylight saving time,&lt;/li&gt;
@@ -106,10 +133,10 @@ www.slideshare.net You can check video here</description>
     
     <item>
       <title>Simple Arduino Clock with 7-Digit Segment Display</title>
-      <link>//localhost:1313/simplest-arduino-clock-with-7-digit-segment-display/</link>
+      <link>https://www.jasinski.us/simplest-arduino-clock-with-7-digit-segment-display/</link>
       <pubDate>Sat, 30 Nov 2013 02:10:58 +0000</pubDate>
       
-      <guid>//localhost:1313/simplest-arduino-clock-with-7-digit-segment-display/</guid>
+      <guid>https://www.jasinski.us/simplest-arduino-clock-with-7-digit-segment-display/</guid>
       
         <description>Built a clock using Arduino UNO and DS1307 Real Time Clock, overcoming display challenges with multi-cable method. Share tips for future projects.</description>
       

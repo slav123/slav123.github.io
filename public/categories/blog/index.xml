@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Slawomir Slav Jasinski</title>
-    <link>//localhost:1313/categories/blog/</link>
+    <link>https://www.jasinski.us/categories/blog/</link>
     <description>Recent content in Blog on Slawomir Slav Jasinski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jul 2025 16:42:07 +0200</lastBuildDate><atom:link href="https://www.jasinski.us/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Email Catch: From Weekend Project to Amazon SES Alternative</title>
+      <link>https://www.jasinski.us/2025/email-catch-en/</link>
+      <pubDate>Sun, 20 Jul 2025 16:42:07 +0200</pubDate>
+      
+      <guid>https://www.jasinski.us/2025/email-catch-en/</guid>
+      
+        <description>High-performance SMTP service written in Go as an alternative to Amazon SES. From weekend project to production-ready tool for receiving and processing emails.</description>
+      
+    </item>
+    
     <item>
       <title>Vector Databases in AI Hype or Revolution? Benefits, Use Cases &amp; More</title>
-      <link>//localhost:1313/2024/bazy-wektorowe-w-ai/</link>
+      <link>https://www.jasinski.us/2024/vector-db/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/bazy-wektorowe-w-ai/</guid>
+      <guid>https://www.jasinski.us/2024/vector-db/</guid>
       
         <description>Discover the power of vector databases in AI. Learn about their benefits, use cases, and how to combine them with large language models (LLMs). Understand when to use them and when to stick with traditional solutions</description>
       
@@ -20,10 +31,10 @@
     
     <item>
       <title>AI Tools vs RAG Function - Boosting AI Performance &amp; Efficiency</title>
-      <link>//localhost:1313/2024/rag-vs-ai-functions/</link>
+      <link>https://www.jasinski.us/2024/rag-vs-ai-functions/</link>
       <pubDate>Thu, 15 Aug 2024 09:30:01 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/rag-vs-ai-functions/</guid>
+      <guid>https://www.jasinski.us/2024/rag-vs-ai-functions/</guid>
       
         <description>Unlock the full potential of AI with AI tools and Retrieval-Augmented Generation (RAG). Discover how these two approaches enhance AI capabilities in different ways, from real-time data to deep knowledge.</description>
       
@@ -31,10 +42,10 @@
     
     <item>
       <title>Maximize AWS Efficiency and Savings</title>
-      <link>//localhost:1313/2024/aws-cost-optimization/</link>
+      <link>https://www.jasinski.us/2024/aws-cost-optimization/</link>
       <pubDate>Fri, 05 Jul 2024 09:30:01 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/aws-cost-optimization/</guid>
+      <guid>https://www.jasinski.us/2024/aws-cost-optimization/</guid>
       
         <description>Optimize your AWS expenses with our expert guide to cost reduction, covering waste elimination, best practices, storage optimization, and leveraging cost-saving tools.</description>
       
@@ -42,10 +53,10 @@
     
     <item>
       <title>5 Key Strategies to Effective Team Expectation Management</title>
-      <link>//localhost:1313/2024/effective-team-expectation-management/</link>
+      <link>https://www.jasinski.us/2024/effective-team-expectation-management/</link>
       <pubDate>Tue, 02 Jul 2024 09:30:01 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/effective-team-expectation-management/</guid>
+      <guid>https://www.jasinski.us/2024/effective-team-expectation-management/</guid>
       
         <description>Optimize your AWS expenses with our expert guide to cost reduction, covering waste elimination, best practices, storage optimization, and leveraging cost-saving tools.</description>
       
@@ -53,10 +64,10 @@
     
     <item>
       <title>AWS Hidden Gems Mastering Athena, Config, and More</title>
-      <link>//localhost:1313/2024/aws-advanced-services-for-solutions-architects/</link>
+      <link>https://www.jasinski.us/2024/aws-advanced-services-for-solutions-architects/</link>
       <pubDate>Fri, 28 Jun 2024 09:30:01 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/aws-advanced-services-for-solutions-architects/</guid>
+      <guid>https://www.jasinski.us/2024/aws-advanced-services-for-solutions-architects/</guid>
       
         <description>Unlock AWS expertise - 5 hidden gems to elevate your Solutions Architect skills. Master data analysis, security, performance &amp; more.</description>
       
@@ -64,10 +75,10 @@
     
     <item>
       <title>Tribal Knowledge Sharing for Business Success</title>
-      <link>//localhost:1313/2024/unlocking-tribal-knowledge/</link>
+      <link>https://www.jasinski.us/2024/unlocking-tribal-knowledge/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/unlocking-tribal-knowledge/</guid>
+      <guid>https://www.jasinski.us/2024/unlocking-tribal-knowledge/</guid>
       
         <description>Unlock the power of knowledge sharing in your business! Discover why sharing expertise is crucial and how to overcome common obstacles like knowledge silos, unclear explanations, and resistance to training. Learn simple strategies to transform individual knowledge into a collective asset</description>
       
@@ -75,10 +86,10 @@
     
     <item>
       <title>Effective Communication with Clients</title>
-      <link>//localhost:1313/2024/speaking-to-clients/</link>
+      <link>https://www.jasinski.us/2024/speaking-to-clients/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/speaking-to-clients/</guid>
+      <guid>https://www.jasinski.us/2024/speaking-to-clients/</guid>
       
         <description>Speaking to clients can be tough. Experience teaches us the art of effective communication, but it&#39;s not always a straightforward skill.</description>
       
@@ -86,10 +97,10 @@
     
     <item>
       <title>Securing Client Meetings - Essential Safety Tips</title>
-      <link>//localhost:1313/2024/security/</link>
+      <link>https://www.jasinski.us/2024/security/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/security/</guid>
+      <guid>https://www.jasinski.us/2024/security/</guid>
       
         <description>Discover essential security tips for client visits, from always logging out to using MFA, based on real experiences and amusing anecdotes.</description>
       
@@ -97,10 +108,10 @@
     
     <item>
       <title>Shifting to a cloud-native architecture</title>
-      <link>//localhost:1313/2024/cloud-native-architecture/</link>
+      <link>https://www.jasinski.us/2024/cloud-native-architecture/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/cloud-native-architecture/</guid>
+      <guid>https://www.jasinski.us/2024/cloud-native-architecture/</guid>
       
         <description>Discover how to transition to cloud-native architecture for improved scalability and innovation. Learn to avoid vendor lock-in with strategic choices in technology</description>
       
@@ -108,10 +119,10 @@
     
     <item>
       <title>Techs Ever-Changing Landscape - My Journey</title>
-      <link>//localhost:1313/2024/birthday/</link>
+      <link>https://www.jasinski.us/2024/birthday/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/birthday/</guid>
+      <guid>https://www.jasinski.us/2024/birthday/</guid>
       
         <description>I&#39;m also celebrating over 20&#43; incredible years of diving, head-first, into the ever-changing world of tech. It&#39;s been an absolute rollercoaster, and I wouldn&#39;t have it any other way!</description>
       
@@ -119,10 +130,10 @@
     
     <item>
       <title>GPT vs Gemini</title>
-      <link>//localhost:1313/2024/cloud-native-architecture/</link>
+      <link>https://www.jasinski.us/2024/cloud-native-architecture/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/cloud-native-architecture/</guid>
+      <guid>https://www.jasinski.us/2024/cloud-native-architecture/</guid>
       
         <description>Compare GPT &amp; Gemini AI models speed, conciseness vs depth &amp; adaptability. Discover their strengths, limitations, and choose the best AI technology for your needs.</description>
       
@@ -130,10 +141,10 @@
     
     <item>
       <title>Micromanagement The Silent Productivity Killer</title>
-      <link>//localhost:1313/2024/micromanagement/</link>
+      <link>https://www.jasinski.us/2024/micromanagement/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/micromanagement/</guid>
+      <guid>https://www.jasinski.us/2024/micromanagement/</guid>
       
         <description>Avoid productivity pitfalls! Learn how micromanagement hurts your team and discover tips to create a more empowering workplace.</description>
       
@@ -141,10 +152,10 @@
     
     <item>
       <title>Consultants Are Like Avocados</title>
-      <link>//localhost:1313/2024/consultants-are-like-avocados/</link>
+      <link>https://www.jasinski.us/2024/consultants-are-like-avocados/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2024/consultants-are-like-avocados/</guid>
+      <guid>https://www.jasinski.us/2024/consultants-are-like-avocados/</guid>
       
         <description>Consultants Not Useless, Just Misunderstood! This lighthearted article challenges Steve Jobs&#39; view on consultants – they&#39;re more than just fancy charts and diagrams.</description>
       
