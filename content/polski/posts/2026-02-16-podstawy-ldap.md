@@ -9,8 +9,6 @@ thumbnail: /images/2026/ldap-practical-guide.webp
 categories:
 - Blog
 - Praca
-series:
-- Autoryzacja
 ---
 ## Problem
 
