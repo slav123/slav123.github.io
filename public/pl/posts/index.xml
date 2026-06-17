@@ -6,7 +6,40 @@
     <description>Recent content in Posts on Sławomir Jasiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 20 Jul 2025 16:42:07 +0200</lastBuildDate><atom:link href="http://localhost:1313/pl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jun 2026 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/pl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forward Deployed Engineer: Dobry pomysł, który łatwo zepsuć</title>
+      <link>http://localhost:1313/2026/forward-deployed-engineering/</link>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/2026/forward-deployed-engineering/</guid>
+      
+        <description>Czym jest Forward Deployed Engineering i dlaczego to przyszłość pracy inżynierskiej? O modelu, w którym inżynierowie stają się częścią zespołów klientów i rozwiązują realne problemy na miejscu.</description>
+      
+    </item>
+    
+    <item>
+      <title>Podstawy LDAP: Co musisz wiedzieć</title>
+      <link>http://localhost:1313/2026/podstawy-ldap/</link>
+      <pubDate>Mon, 16 Feb 2026 09:42:07 +0200</pubDate>
+      
+      <guid>http://localhost:1313/2026/podstawy-ldap/</guid>
+      
+        <description>Koniec z zarządzaniem wieloma bazami użytkowników. Dowiedz się, jak użyć lldap do centralizacji uwierzytelniania w Nextcloud, Gitea i Grafanie - prosty przewodnik po LDAP.</description>
+      
+    </item>
+    
+    <item>
+      <title>Przestań budować strony logowania: Jak działa zewnętrzna autoryzacja</title>
+      <link>http://localhost:1313/2026/zewnetrzna-autoryzacja/</link>
+      <pubDate>Fri, 13 Feb 2026 10:42:07 +0200</pubDate>
+      
+      <guid>http://localhost:1313/2026/zewnetrzna-autoryzacja/</guid>
+      
+        <description>Zewnętrzna autoryzacja stawia niezależny serwis przed Twoją aplikacją. Obsługuje logowanie, MFA i sesje. Twoja aplikacja tylko odczytuje nagłówki HTTP.</description>
+      
+    </item>
+    
     <item>
       <title>Email Catch: Od weekendowego projektu do alternatywy dla Amazon SES</title>
       <link>http://localhost:1313/2025/email-catch/</link>
@@ -139,8 +172,8 @@
  &lt;a href=&#34;https://www.linkedin.com/company/onet-pl/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BOOgTtALdS4edIpVFur07gg%3D%3D&#34;&gt;Onet&lt;/a&gt;
   wprowadzają innowację z wykorzystaniem #AI #MachineLearning - np. w kategorii równouprawnienia treści.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vYHCNZsFNRc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
+			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vYHCNZsFNRc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+		&lt;/div&gt;</description>
       
     </item>
     
