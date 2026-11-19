@@ -10,7 +10,7 @@ tag = "tags"
 [params]
 title = "Blog"
 author = "Slawomir Jasinski"
-copyright = "2011-2025"
+copyright = "2011-2026"
 description = "Forward-thinking Solutions Architect excels in cloud migration, optimizing infrastructure for peak performance and security, deploying tailored solutions."
 mainSections = ["post"]
 enableMediumZoom = true
