@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aws on Slawomir Slav Jasinski</title>
+    <link>//localhost:1313/tags/aws/</link>
+    <description>Recent content in Aws on Slawomir Slav Jasinski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jul 2024 09:30:01 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Cost Optimization - A Solution Architect&#39;s Guide</title>
+      <link>//localhost:1313/2024/jak-sztuczna-inteligencja-rewolucjonizuje-biznes/</link>
+      <pubDate>Fri, 05 Jul 2024 09:30:01 +0000</pubDate>
+      
+      <guid>//localhost:1313/2024/jak-sztuczna-inteligencja-rewolucjonizuje-biznes/</guid>
+      
+        <description>Optimize your AWS expenses with our expert guide to cost reduction, covering waste elimination, best practices, storage optimization, and leveraging cost-saving tools.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
